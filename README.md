@@ -1,36 +1,25 @@
-#My Jekyll Theme for GitHub Pages. 
+# Minimal Mistakes
 
+**[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog.
 
-Write in Jekyll  [Jekyll Release for the Holidays! v2.5.3 Out ](https://github.com/jekyll/jekyll).
+**Jekyll 3 Update:** A version of Minimal Mistakes compatible with Jekyll 3 can be found in the [`jekyll3` branch](https://github.com/mmistakes/minimal-mistakes/tree/jekyll3). GitHub Pages is [locked at version 2.4](https://pages.github.com/versions/) so some keep that in mind if you're trying to use 3.0 features that aren't supported there yet.
 
+## Minimal Mistakes is all about:
 
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
+* Minimal embellishments -- content first.
+* Optional large feature images for posts and pages.
+* Simple and clear permalink structure.
+* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
+* Support for Disqus Comments
 
-CleanMagicMedium V.0.0.2
-Download it <code> git clone https://github.com/SpaceG/CleanMagicMedium-Jekyll-V.0.2.0.git</code>
+![screenshot of Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes/images/mm-theme-post-600.jpg)
 
-Download it, open it with Terminal and run <code> jekyll serve </code> 
-Have Fun! Please Star it and Fork it! 
-Cheers with Club Mate!
+See a [live version of Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/) hosted on GitHub.
 
+## Getting Started
 
-Twitter
-[@LucasGatsas](https://twitter.com/LucasGatsas) 
+Minimal Mistakes takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
 
-
-Download: 
-[CleanMagicMedium V.0.0.2](https://github.com/SpaceG/CleanMagicMedium-Jekyll-V.0.2.0) 
-
-
-
-![alt tag](https://spaceg.github.io/img/intro-theme-1.png)
-
-
-
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Copyright © 2013 - 2015. Lucas Gatsas - Softwares
+To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/minimal-mistakes/theme-setup/) for more information.
