@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Todd Stoffer
 locale:           en_US
 url:
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Todd Stoffer
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Hi I'm Todd, I am a librarian."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: toddstoffer
   facebook: #username
   google:
     plus: #username
@@ -40,11 +40,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: toddstoffer
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: toddstoffer
   xing: #username
-  instagram: #username
+  instagram: toddstoffer
   lastfm: #username
   tumblr: #username
   pinterest: #username
