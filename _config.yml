@@ -1,61 +1,21 @@
-# Site wide configuration
+# Site settings Update for my Blog : spaceg.github.io Do.9.April 15.49:24 2015 
+title: l.g
+email: lucasgatsas@gmail.com
+description: "Hello, My Name is Lucas Gatsas, I'm a Front End Engineer and Web Developer from Switzerland. This is my Personal Notice and Archive Work Experience Work Blog. My Official Website will be Up soon! Code and Space!"
+baseurl: ""
+url: "http://lucasgatsas.ch"
+twitter_username: LucasGatsas
+github_username:  spaceg
+google_username:  https://plus.google.com/101826267816845608605/posts
+instagram_username:  lucasgatsas
 
-title:            Site Title
-locale:           en_US
-url:
 
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
+# Build settings
+markdown: kramdown
 highlighter: pygments
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
+permalink: pretty
+paginate: 
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+paginate: 5 #posts per page
 
-
-# Site owner
-owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
