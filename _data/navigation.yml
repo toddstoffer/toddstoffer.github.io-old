@@ -1,9 +1,9 @@
 # Site navigation links
 
-- title: About
+- title: About Me
   url: /about/
 
-- title: Archive
+- title: Blog Archive
   url: /posts/
 
 #- title: Theme Setup
