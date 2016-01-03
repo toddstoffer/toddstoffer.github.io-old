@@ -17,9 +17,9 @@ body {
 	padding: 2em 0 1em;
 	font-family: $heading-font;
 	font-weight: 700;
-	border-bottom: 5 #CC0000;
 	text-transform: uppercase;
 	@include clearfix;
+	border-bottom: 5 solid #CC0000;
 }
 
 /* Site name */
