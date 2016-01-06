@@ -23,8 +23,8 @@ $body-color     : $bodycolor;
 $textcolor      : #333332;
 $text-color     : $textcolor;
 $border-color   : $text-color;
-$basecolor 		  : #343434;
-$compcolor 		  : spin($basecolor, 180);
+$basecolor 		: #343434;
+$compcolor 		: spin($basecolor, 180);
 $bordercolor    : $basecolor;
 $white          : #fff;
 $black          : #111;
@@ -36,7 +36,7 @@ $primary			: $black;
 $success			: #5cb85c;
 $warning			: #dd8338;
 $danger				: #C64537;
-$info				  : #308cbc;
+$info				: #308cbc;
 
 /* brands */
 $facebook-color     : #3b5998;
@@ -54,7 +54,7 @@ $youtube-color      : #ff3333;
 
 /* links */
 $linkcolor 		    : #343434;
-$link-color       : $linkcolor;
+$link-color         : $linkcolor;
 $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 20);
 $linkcolorfocus 	: darken($linkcolorvisited, 10);
