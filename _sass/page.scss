@@ -290,8 +290,6 @@ $button-size: 1.5rem;
 	position: relative;
 	margin-bottom: 2em;
 	@include clearfix;
-	border-top: 4em solid;
-	border-top-color: $lowlight-color
 	&:after {
 		content: " ";
 		display: block;
@@ -301,7 +299,7 @@ $button-size: 1.5rem;
 		width: 0;
 		height: 0;
 		border: 10px solid transparent;
-		border-bottom-color: $bodycolor;
+		border-bottom-color: $lowlight-color;
 		@media #{$small} {
 			left: 25%;
 		}
