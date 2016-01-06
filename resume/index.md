@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Todd Stoffer's Resume
+title:
 image:
   feature: sample-image-1.jpg
 ---
