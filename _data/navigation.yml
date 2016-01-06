@@ -5,7 +5,8 @@
 
 - title: Resume
   url: /resume/
-
+- title: Recent posts
+  url: index.md
 - title: Blog Archive
   url: /posts/
 
