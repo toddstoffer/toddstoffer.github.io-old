@@ -6,8 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
   feature: sample-image-1.jpg
-  credit: Todd Stoffer
-  creditlink: http://instagram.com/toddstoffer
+
 ---
 
 I am currently a NCSU Libraries fellow working on web archiving and digital library initiatives. I obtained my MLS from University of Maryland and hold a Bachelors in Political Science from Colorado State University. In my spare time I enjoy traveling, cooking and photography. 
