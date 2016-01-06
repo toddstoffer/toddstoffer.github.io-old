@@ -20,7 +20,7 @@ body {
 	text-transform: uppercase;
 	@include clearfix;
 	border-bottom: .5em solid;
-	border-bottom-color: $bottom-color
+	border-bottom-color: $highlight-color
 }
 
 /* Site name */
@@ -290,6 +290,8 @@ $button-size: 1.5rem;
 	position: relative;
 	margin-bottom: 2em;
 	@include clearfix;
+	border-top: 4em solid;
+	border-top-color: $lowlight-color
 	&:after {
 		content: " ";
 		display: block;
