@@ -19,7 +19,9 @@ body {
 	font-weight: 700;
 	text-transform: uppercase;
 	@include clearfix;
-	border-bottom: .5em solid #CC0000;
+	border-bottom-style: solid;
+	border-bottom-color: #CC0000;
+	border-bottom-width: .5em;
 }
 
 /* Site name */
