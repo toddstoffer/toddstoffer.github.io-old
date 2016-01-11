@@ -60,7 +60,7 @@ Article Title, Joural Title
 ## Presentations
 
 `1994`
-Presentation Title, Conference,<a href="http://MyWebsite.tld/presentation"> Link to Presentation/a>
+Presentation Title, Conference,<a href="http://MyWebsite.tld/presentation"> Link to Presentation</a>
 
 
 ## Occupation
