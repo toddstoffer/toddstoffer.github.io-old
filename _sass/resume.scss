@@ -12,9 +12,7 @@
 .resume article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block;
   }
-.resume body {
-  line-height: 1;
-  }
+
 
 .resume ol, ul{
   list-style: none;
@@ -53,7 +51,6 @@
   left: 33%;
   width: 65%;
   margin-bottom: 1.5em;
-  margin-top: -0.5em;
 }
 
 .resume ul{
@@ -104,15 +101,6 @@
   top: 1.7em;
   text-align: right;
   width: 30%;
-}
-
-#webaddress {
-  margin-top: 1em;
-  position: relative;
-  left: 33%;
-  color: #aaa;
-  font-size: 80%;
-
 }
 
 em {
