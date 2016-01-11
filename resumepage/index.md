@@ -1,28 +1,11 @@
 ---
 layout: cv
-title: Eliseo Papa's CV
+title: Todd Stoffer's CV
 ---
-# FirstName LastName
-Title
-
-<div id="webaddress">
-<a href="email@email.com">email@email.com</a>
-| <a href="http://MyWebsite.tld">MyWebsite</a>
-</div>
-
 
 ## Currently
 
 Current Position Description
-
-### Specialized in
-
-List of Specializations
-
-
-### Research interests
-
-List of Research Interests
 
 
 ## Education
