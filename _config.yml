@@ -1,8 +1,7 @@
 # Site wide configuration
 
 title:            Todd Stoffer
-locale:           en_US
-url:             
+locale:           en_US         
 
 
 # Jekyll configuration
