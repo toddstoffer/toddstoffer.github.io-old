@@ -7,7 +7,7 @@ Title
 
 <div id="webaddress">
 <a href="email@email.com">email@email.com</a>
-| <a href="http://MyWebsite.tld">MyWebsite/a>
+| <a href="http://MyWebsite.tld">MyWebsite</a>
 </div>
 
 
