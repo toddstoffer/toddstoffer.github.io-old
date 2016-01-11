@@ -31,7 +31,7 @@ table {
 
 body {
   font: normal normal 400;
-  font-size: 80%;
+  font-size: 100%;
   line-height: 1.5em;
   font-family: Verdana,sans-serif;
   margin-top: 1em;
@@ -39,10 +39,9 @@ body {
 }
 p {
   position: relative;
-  left: 33%;
   margin-bottom: 0.7em;
   margin-right: 0;
-  width: 65%;
+  width: 100%;
 }
 
 code {
@@ -51,10 +50,7 @@ code {
   font-family: Menlo,monospace,sans-serif;
   color: #aaa;
 }
-p code {
-  position: absolute;
-  left: -14%;
-}
+
 ul {
   position: relative;
   left: 33%;
@@ -62,9 +58,6 @@ ul {
   margin-bottom: 1.5em;
   margin-top: -0.5em;
 }
-
-
-
 
 ul{
       position: relative;
