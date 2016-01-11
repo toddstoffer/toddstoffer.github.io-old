@@ -36,12 +36,10 @@ __University Name__
 Degree Awarded 
 
 
-
 ## Awards
 
 `2012`
 Name of Award, Organization 
-
 
 
 ## Publications
