@@ -33,15 +33,13 @@
   font: normal normal 400;
   font-size: 100%;
   line-height: 1.5em;
-  margin-top: 1em;
   margin-left: 1em;
 }
 .resume p {
   position: relative;
   left: 33%;
-  margin-bottom: 0.7em;
   margin-right: 0;
-  width: 65%;
+  width: 85%;
 }
 
 .resume code {
@@ -93,10 +91,9 @@
 }
 
 .resume h2 {
-  font-size: 1.1em;
+  font-size: 1.5em;
   color: $highlightcolor;
   position: relative;
-  top: 1.4em;
   text-align: right;
   width: 20%;
 }
