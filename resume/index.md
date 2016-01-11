@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: resume
 title: Todd Stoffer's CV
 ---
 ## Currently
