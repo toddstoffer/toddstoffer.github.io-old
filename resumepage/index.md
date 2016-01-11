@@ -2,11 +2,9 @@
 layout: cv
 title: Todd Stoffer's CV
 ---
-
 ## Currently
 
 Current Position Description
-
 
 ## Education
 
@@ -18,12 +16,10 @@ Degree Awarded
 __University Name__
 Degree Awarded 
 
-
 ## Awards
 
 `2012`
 Name of Award, Organization 
-
 
 ## Publications
 
@@ -36,6 +32,14 @@ Article Title, Journal Title
 
 `1994`
 Article Title, Journal Title
+
+### Books
+
+`1994`
+Book Title, Journal Title
+
+`1994`
+Book Title, Journal Title
 
 
 ## Presentations
