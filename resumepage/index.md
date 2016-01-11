@@ -54,7 +54,7 @@ Name of Award, Organization
 Article Title, Journal Title
 
 `1994`
-Article Title, Joural Title
+Article Title, Journal Title
 
 
 ## Presentations
