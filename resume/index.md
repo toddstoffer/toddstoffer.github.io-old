@@ -1,10 +1,4 @@
 ---
-layout: resume
-title:
-image:
-  feature: sample-image-1.jpg
----
----
 layout: cv
 title: Todd Stoffer's CV
 ---
