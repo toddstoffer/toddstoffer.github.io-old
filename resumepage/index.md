@@ -27,7 +27,7 @@ List of Research Interests
 
 ## Education
 
-`1990-1994`
+`1990 - 1994`
 __University Name__
 Degree Awarded
 
@@ -59,8 +59,8 @@ Article Title, Joural Title
 
 ## Presentations
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`1994`
+Presentation Title, Conference,<a href="http://MyWebsite.tld/presentation"> Link to Presentation/a>
 
 
 ## Occupation
