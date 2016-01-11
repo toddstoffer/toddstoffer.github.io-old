@@ -94,7 +94,7 @@ h1 {
 
 h2 {
   font-size: 1.1em;
-  color: #a00;
+  color: $highlightcolor;
   position: relative;
   top: 1.4em;
   text-align: right;
@@ -104,6 +104,7 @@ h2 {
 h3 {
   font-size: 1em;
   line-height: 2em;
+  color: $lowlightcolor;
   position: relative;
   top: 1.7em;
   text-align: right;
