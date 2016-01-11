@@ -2,52 +2,45 @@
 layout: cv
 title: Eliseo Papa's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# FirstName LastName
+Title
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="email@email.com">email@email.com</a>
+| <a href="http://MyWebsite.tld">MyWebsite/a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Current Position Description
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+List of Specializations
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+List of Research Interests
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1990-1994`
+__University Name__
+Degree Awarded
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - 
-__Trinity College, Cambridge__
-
-- Fellow
+`1995 - 1997`
+__University Name__
+Degree Awarded 
 
 
 
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Name of Award, Organization 
 
 
 
@@ -57,15 +50,14 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`1994`
+Article Title, Journal Title
 
-`1669`
-Lectiones opticæ.
+`1994`
+Article Title, Joural Title
 
-etc. etc. etc.
 
-### Patents
+## Presentations
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
@@ -73,14 +65,17 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Current`
+__Current Job Title__, Current Employer 
 
-- Warden
-- Minted coins
+- Task
+- Task
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`1994-1996`
+__Current Job Title__, Current Employer 
+
+- Task
+- Task
 
 
 
