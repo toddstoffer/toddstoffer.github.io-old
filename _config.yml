@@ -1,13 +1,13 @@
 # Site wide configuration
 
 title:            Todd Stoffer
-locale:           en_US         
+locale:           en_US
+logo:             logo.png         
 
 # Enter the following platform usernames if you would like for them to appear on your site. 
 owner:
   name: Todd Stoffer
   avatar: bio-photo.jpg 
-  logo: logo.png
   bio: "Hi I'm Todd, I am a librarian."
   email: tdstoffe@ncsu.edu
   disqus-shortname:
