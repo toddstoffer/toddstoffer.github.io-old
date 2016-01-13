@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started
 excerpt: "How to get started using your Jekyll site with Github pages. "
-modified: 2016-01-13 20:28:19 
+modified: 2016-01-13 20:41:29 
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 ---
