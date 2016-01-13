@@ -1,9 +1,7 @@
-{% if page.author %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
-{% endif %}
+
 <div class="navigation-wrapper">
 	<div class="site-name">
-		<a href="{{ site.url }}/"><img src="{{ site.url }}/images/{{ author.logo }} "></a>
+		<a href="{{ site.url }}/"><img src="{{ site.url }}/images/{{ site.logo }} "></a>
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
