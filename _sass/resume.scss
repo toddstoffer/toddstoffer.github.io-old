@@ -37,6 +37,11 @@
   left: 33%;
   margin-right: 0;
   width: 85%;
+  @if $paragraph-indent == true {
+    & + p {
+      text-indent: $indent-var;
+      margin-top: -($indent-var);
+    }
 }
 
 .resume code {
