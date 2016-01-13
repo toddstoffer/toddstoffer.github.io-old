@@ -3,6 +3,8 @@
 	<div class="site-name">
 		{% if site.logo %}
 		<a href="{{ site.url }}/"><img src="{{ site.url }}/images/{{ site.logo }} "></a>
+		{% else %}
+		<a href="{{ site.url }}/">{{ site.title }}</a>
 		{% endif %}
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
