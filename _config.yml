@@ -7,6 +7,7 @@ locale:           en_US
 owner:
   name: Todd Stoffer
   avatar: bio-photo.jpg 
+  logo: logo.jpg
   bio: "Hi I'm Todd, I am a librarian."
   email: tdstoffe@ncsu.edu
   disqus-shortname:
