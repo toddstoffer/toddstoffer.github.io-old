@@ -2,12 +2,12 @@
 
 title:            Todd Stoffer
 locale:           en_US
-logo:             logo.png 
-
-# Enter the following platform usernames if you would like for them to appear on your site. 
+logo:             logo.png
+url:              toddstoffer.github.io
+# Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Todd Stoffer
-  avatar: bio-photo.jpg 
+  avatar: bio-photo.jpg
   bio: "Hi I'm Todd, I am a librarian."
   email: tdstoffe@ncsu.edu
   disqus-shortname:
@@ -38,7 +38,7 @@ owner:
   codepen: #username
 
 #DO NOT EDIT BEYOND THIS POINT
-# Jekyll configuration 
+# Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
