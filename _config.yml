@@ -2,16 +2,16 @@
 
 title:            Todd Stoffer
 locale:           en_US
-logo:             logo.png
-url:              
+logo:
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Todd Stoffer
+  name: Your Name
   avatar: bio-photo.jpg
-  bio: "Hi I'm Todd, I am a librarian."
-  email: tdstoffe@ncsu.edu
+  bio: "A brief description of yourself."
+  email: #emailaddress
   disqus-shortname:
-  twitter: toddstoffer
+  twitter: #username
   facebook: #username
   google:
     plus: #username
@@ -20,11 +20,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: toddstoffer
+  github: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: toddstoffer
+  linkedin: #username
   xing: #username
-  instagram: toddstoffer
+  instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
