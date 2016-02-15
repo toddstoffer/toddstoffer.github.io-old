@@ -6,11 +6,8 @@
 - title: Resume
   url: /resume/
 
-- title: Blog Archive
+- title: Blog
   url: /archive/
 
-#- title: Theme Setup
-#  url: /theme-setup/
-
-#- title: Made Mistakes
-#  url: http://mademistakes.com
+- title: Recent Posts
+  url: /
