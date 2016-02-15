@@ -10,6 +10,8 @@ comments: true
 ## Step 1: Getting Started
 The first step in configuring your new site is to update the two main configuration files for the site. Both of these files are found in the root directory of the site (mysite folder). They are the **_config.yaml** and accent.scss files. The **_config.yaml** contains many of the main configuration settings for your site. It allows you to set a site name, and connect your site to many popular services and platforms such as Github, Twitter and email. The **accents.scss** file allows you to adjust the accent colors of your website (the two lines of color below the navigation). After adjusting these files be sure to safe the files and sync your changes back up to Github.
 
+***
+
 ### Folder Structure
 
     mysite/
@@ -54,6 +56,8 @@ The first step in configuring your new site is to update the two main configurat
     |    └── less/
     ├── 404.md                       # 404 page
 
+***
+
 ## Step 2: Navigation
 The default site template includes navigation items for your home page (recent posts), About Me, Blog Archive and Resume pages. If you would like to add additional pages to the navigation of your site you can do so by creating a copy of the **about** folder and giving the name of the new page you would like. Once that is done, open _data/navigation.yaml and create a new navigation element that points to the folder you just created.
 
@@ -66,7 +70,7 @@ The default site template includes navigation items for your home page (recent p
        url: /presentations/
     4) Save the file, sync changes to Github
 
-
+***
 
 ## Step 3: Images
 
@@ -76,10 +80,12 @@ There are two main images to be aware of when setting up your new site. They are
 #### Logo Image
 By default the upper left-hand navigation item on your website will default to a text treatment of the name you have given your website. If you would like to use a logo instead of the text treatment simply include a 216 x 34 logo saved as logo.png in the /Images/ directory. Once you have saved your logo image to this directory open up your _config.yaml file and add logo.jpg in the site>logo: setting area.
 
+***
 
 ## Posts: Step 4
 Chances are you are were drawn to creating this site to use, at least partially, as a blogging platform. That is, after all, what it is designed for. In order to create a new blog post, you can simply copy an existing post from the _posts folder. At the top of the file you will see some settings options. Posts use the 'post' layout. You can set the title, excerpt and tags to whatever you would like. Set the timestamp to the current time (there are many text editor plugins that can do this for you). Save the new post with the same naming convention as the example posts -- e.g. 2016-01-03-New-Post.md. It is important that all posts are saved as Markdown (.md) files.
 
+***
 
 ## License
 
