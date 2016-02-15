@@ -12,6 +12,35 @@ The first step in configuring your new site is to update the two main configurat
 
 ***
 
+## Step 2: Navigation
+The default site template includes navigation items for your home page (recent posts), About Me, Blog Archive and Resume pages. If you would like to add additional pages to the navigation of your site you can do so by creating a copy of the **about** folder and giving the name of the new page you would like. Once that is done, open _data/navigation.yaml and create a new navigation element that points to the folder you just created.
+
+    Example:
+    To create a 'Presentations' page
+    1) Copy /about and rename to /presentations
+    2) Open /_data/navigation.yaml
+    3) Add the following lines:
+       - title: Presentations
+       url: /presentations/
+    4) Save the file, sync changes to Github
+
+***
+
+## Step 3: Images
+
+#### Bio Image
+There are two main images to be aware of when setting up your new site. They are both included in the /Images/ directory. The first is bio-photo.jpg. This is the photo that appears on the left-hand side of your website. Any 200 x 200 pixel JPEG image can be used. Just be sure to rename the image bio-photo.jpg and place it in the /Images/ directory overwriting the default image that is in that folder.
+
+#### Logo Image
+By default the upper left-hand navigation item on your website will default to a text treatment of the name you have given your website. If you would like to use a logo instead of the text treatment simply include a 216 x 34 logo saved as logo.png in the /Images/ directory. Once you have saved your logo image to this directory open up your _config.yaml file and add logo.jpg in the site>logo: setting area.
+
+***
+
+## Posts: Step 4
+Chances are you are were drawn to creating this site to use, at least partially, as a blogging platform. That is, after all, what it is designed for. In order to create a new blog post, you can simply copy an existing post from the _posts folder. At the top of the file you will see some settings options. Posts use the 'post' layout. You can set the title, excerpt and tags to whatever you would like. Set the timestamp to the current time (there are many text editor plugins that can do this for you). Save the new post with the same naming convention as the example posts -- e.g. 2016-01-03-New-Post.md. It is important that all posts are saved as Markdown (.md) files.
+
+***
+
 ### Folder Structure
 
     mysite/
@@ -58,34 +87,8 @@ The first step in configuring your new site is to update the two main configurat
 
 ***
 
-## Step 2: Navigation
-The default site template includes navigation items for your home page (recent posts), About Me, Blog Archive and Resume pages. If you would like to add additional pages to the navigation of your site you can do so by creating a copy of the **about** folder and giving the name of the new page you would like. Once that is done, open _data/navigation.yaml and create a new navigation element that points to the folder you just created.
-
-    Example:
-    To create a 'Presentations' page
-    1) Copy /about and rename to /presentations
-    2) Open /_data/navigation.yaml
-    3) Add the following lines:
-       - title: Presentations
-       url: /presentations/
-    4) Save the file, sync changes to Github
-
-***
-
-## Step 3: Images
-
-#### Bio Image
-There are two main images to be aware of when setting up your new site. They are both included in the /Images/ directory. The first is bio-photo.jpg. This is the photo that appears on the left-hand side of your website. Any 200 x 200 pixel JPEG image can be used. Just be sure to rename the image bio-photo.jpg and place it in the /Images/ directory overwriting the default image that is in that folder.
-
-#### Logo Image
-By default the upper left-hand navigation item on your website will default to a text treatment of the name you have given your website. If you would like to use a logo instead of the text treatment simply include a 216 x 34 logo saved as logo.png in the /Images/ directory. Once you have saved your logo image to this directory open up your _config.yaml file and add logo.jpg in the site>logo: setting area.
-
-***
-
-## Posts: Step 4
-Chances are you are were drawn to creating this site to use, at least partially, as a blogging platform. That is, after all, what it is designed for. In order to create a new blog post, you can simply copy an existing post from the _posts folder. At the top of the file you will see some settings options. Posts use the 'post' layout. You can set the title, excerpt and tags to whatever you would like. Set the timestamp to the current time (there are many text editor plugins that can do this for you). Save the new post with the same naming convention as the example posts -- e.g. 2016-01-03-New-Post.md. It is important that all posts are saved as Markdown (.md) files.
-
-***
+## Further Customization
+If you dig deep enough into the site structure you will find that nearly every element of your site can be customized. This them is based on the wonderful Minimal Mistakes theme by Michael Rose. If you would like more detailed information about the site setup and structure, please visit the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/theme-setup/) theme setup page. Here you will find detailed instructions for nearly every use case. 
 
 ## License
 
