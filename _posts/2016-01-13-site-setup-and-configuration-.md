@@ -88,7 +88,9 @@ Chances are you are were drawn to creating this site to use, at least partially,
 ***
 
 ## Further Customization
-If you dig deep enough into the site structure you will find that nearly every element of your site can be customized. This them is based on the wonderful Minimal Mistakes theme by Michael Rose. If you would like more detailed information about the site setup and structure, please visit the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/theme-setup/) theme setup page. Here you will find detailed instructions for nearly every use case. 
+If you dig deep enough into the site structure you will find that nearly every element of your site can be customized. This them is based on the wonderful Minimal Mistakes theme by Michael Rose. If you would like more detailed information about the site setup and structure, please visit the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/theme-setup/) theme setup page. Here you will find detailed instructions for nearly every use case.
+
+***
 
 ## License
 
