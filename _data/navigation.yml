@@ -1,4 +1,6 @@
 # Site navigation links
+- title: Home
+  url: /
 
 - title: About Me
   url: /about/
@@ -8,6 +10,3 @@
 
 - title: Blog
   url: /archive/
-
-- title: Recent Posts
-  url: /
