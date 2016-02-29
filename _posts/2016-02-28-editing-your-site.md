@@ -2,7 +2,7 @@
 layout: post
 title: How to edit your Jekyll site and make posts
 excerpt: "Edit your site and make posts "
-modified: 2/29/2016, 8:24:22 AM
+modified: 2/29/2016, 8:24:22
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 ---

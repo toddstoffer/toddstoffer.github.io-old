@@ -2,7 +2,7 @@
 layout: post
 title: (Almost) Everything You Want to Know About Your New Site
 excerpt: "What goes where, and how to configure your new site "
-modified: 22/29/2016, 7:33:12 AM
+modified: 22/29/2016, 7:33:12
 tags: [intro, intermediate, jekyll, tutorial]
 comments: true
 ---

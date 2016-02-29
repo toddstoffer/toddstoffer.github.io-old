@@ -2,7 +2,7 @@
 layout: post
 title: What is This?
 excerpt: "What is a static website generator, and why should I care?"
-modified: 2/29/2016, 9:00:24 AM
+modified: 2/29/2016, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 ---
