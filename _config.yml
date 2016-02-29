@@ -3,7 +3,7 @@
 title:            Site Title
 locale:           en_US
 logo:
-url:
+url:		toddstoffer.github.io/jekyll-academic/
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Your Name
@@ -21,7 +21,7 @@ owner:
     ad-slot:
   bing-verify:
   github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: #username
