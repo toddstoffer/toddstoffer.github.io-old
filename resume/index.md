@@ -11,7 +11,9 @@ I am currently an NCSU Libraries Fellow. I work in both the Digital Library Init
 __Colorado State University__
 
 B.A. in Political Science
+
 Specialization in Comparative Governments of Latin and South America
+
 
 
 `2013 - 2015`
