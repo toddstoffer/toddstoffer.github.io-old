@@ -2,15 +2,13 @@
 layout: page
 title: About Me
 tags: [about, about me, me, ]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 3/4/2016, 4:32:51
 comments: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+I am currently an NCSU Libraries Fellow working in both the Digital Libraries Initiatives Department and Special Collections Research Center. My undergraduate degree is in political science and I graduated with my MLS from University of Maryland in 2015. I am passionate about the potential technology has to impact libraries and higher education, and work to integrate that passion into my current project.
 ## Current Interests and Projects:
 
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* DLorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
+* Web Archiving
+* Born-Digital Preservation
+* Open Source Software Development
