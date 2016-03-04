@@ -3,18 +3,21 @@ layout: resume
 ---
 ## Currently
 
-I am currently an NCSU Libraries Fellow. I work in both the Digital Library Initiatives department as well as the Special Collections Research Center. My work in DLI is focused on tools used to harvest social media content. In the Special Collections Research Center I am focused on overseeing a Web Archiving project, with an emphasis on the preservation of the NC State University websites as it relates to the university archives mission of preserving the unique cultural heritage of our institution. 
+I am currently an NCSU Libraries Fellow. I work in both the Digital Library Initiatives department as well as the Special Collections Research Center. My work in DLI is focused on tools used to harvest social media content. In the Special Collections Research Center I am focused on overseeing a Web Archiving project, with an emphasis on the preservation of the NC State University websites as it relates to the university archives mission of preserving the unique cultural heritage of our institution.
 
 ## Education
 
 `2005 - 2009`
 __Colorado State University__
+
 B.A. in Political Science
+Specialization in Comparative Governments of Latin and South America
 
 
 `2013 - 2015`
 __University of Maryland - College Park__
 Masters of Library Science
+
 Specialization in the Curation and Management of Digital Assets
 
 <!-- ## Awards
