@@ -127,7 +127,8 @@ make a on demand visualization of SC holdings
 
 
 # Ethnographic Web Archives
-# Really need to look into this tool
+# *Really need to look into this tool*
+# contact @tolloid
 Use [Mediacat](github.com/utmediacat)
 Can help in defining scpe of crawl
 simplified IA interface
