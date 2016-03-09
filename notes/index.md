@@ -7,12 +7,13 @@ comments: false
 ---
 
 # Day 1
+
 ## Software to Look at from Keynote (privacy)
 - Signal (encrypted iPhone calls/messages)
   - signal desktop - encrypted messages from desktop
 - Tor browser
 - XSLT
--[HTML5up](http://html5up.net/)
+- [HTML5up](http://html5up.net/)
 
 # Good Enough Digital Preservation
 ### Tools to Use:
@@ -22,7 +23,7 @@ comments: false
 - [CoSA](https://www.statearchivists.org/resource-center/resource-library/)
 
 # Providing Access to Websites
-Biggest issue now is abundance, too much Websites
+Biggest issue w/ web archiving is now abundance, too much Websites
 ## Geocities projects1995 10k users 1997 1Mil
 
 ## WARCBase - I need to learn this look, team up with hadoop, apache hbase, spark
@@ -64,7 +65,7 @@ Use existing CSS template to make it look better, be mobile-friendly, mobile-fun
 -Client/server vs peer/peer - which is better?
 -[Code4Philly](https://codeforphilly.org/projects/dat_tables)
 
-
+****************
 ****************
 # Day 2
 # Linked Open Dime Novels
