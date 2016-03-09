@@ -124,3 +124,20 @@ Electron is Chromium plus node.js
 make a on demand visualization of SC holdings
 [SNAC](http://socialarchive.iath.virginia.edu/snac/search)
 [Cytosape](http://www.cytoscape.org/)
+
+
+# Ethnographic Web Archives
+# Really need to look into this tool
+Use [Mediacat](github.com/utmediacat)
+Can help in defining scpe of crawl
+simplified IA interface
+Can archive twitter accounts tooused wget, wpull phantomjs, django, tweepy, etc.
+
+keyword and readabillity to scan relevant sections of webpages - ignores adds sidebards menus
+
+use NLP to scan returned pages
+
+
+uses css selectors, readability api, content extracted with newspaper.
+
+github.com/utmediacat
