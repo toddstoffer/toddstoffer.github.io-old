@@ -129,6 +129,9 @@ make a on demand visualization of SC holdings
 # Ethnographic Web Archives
 # *Really need to look into this tool*
 # contact @tolloid
+
+https://docs.google.com/presentation/d/1rdlnKOJtUjIbM-2wMOiEmfgnY3y9of2btOGaHR7NFC0/edit#slide=id.g11bfc0e2ab_0_96
+
 Use [Mediacat](github.com/utmediacat)
 Can help in defining scpe of crawl
 simplified IA interface
@@ -142,3 +145,13 @@ use NLP to scan returned pages
 uses css selectors, readability api, content extracted with newspaper.
 
 github.com/utmediacat
+
+*******************
+*******************
+# Day 3
+
+Keynote - DuckDuckGo
+
+[DuckDuckHack] (http://duckduckhack.com/) - this is a thing i need to get involved with. Seems to be maybe a simple way to get into a large OSS project (http://duckduckhack.com/)
+
+# Todd You should contribute to this
