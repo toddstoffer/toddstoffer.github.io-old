@@ -5,6 +5,7 @@ description: "Working within the new Instagram API Requirements"
 theme: black
 transition: slide
 tags: [presentation]
+category: presentation
 ---
 
 <section data-markdown>

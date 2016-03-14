@@ -5,6 +5,7 @@ description: "Using consumer software to automate the web archiving quality assu
 theme: black
 transition: slide
 tags: [presentation]
+category: presentation
 ---
 <section data-markdown>
 
