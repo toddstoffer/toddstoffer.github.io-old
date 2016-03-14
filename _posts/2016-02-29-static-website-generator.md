@@ -3,7 +3,7 @@ layout: post
 title: Static Website Generator Project
 excerpt: "What is a static website generator, and why should I care?"
 modified: 2/29/2016, 9:00:24
-tags: [intro, beginner, jekyll, tutorial]
+tags: [intro, beginner, jekyll, tutorial, blog]
 comments: true
 ---
 
@@ -19,4 +19,4 @@ A static website, simply put, is easier to manage than just about any other opti
 This template has been optimized for ease of use. In the next set of instructions you will see that there are less than five files that you need to edit in order to customize the look of the website.
 
 ## Where can I get a copy?
-This project is being actively maintained at [github.com/NCSU-Libraries/jekyll-academic](https://github.com/NCSU-Libraries/jekyll-academic). We are still in the early phases of the project and hope to add more complete documentation and advanced features in the near future. 
+This project is being actively maintained at [github.com/NCSU-Libraries/jekyll-academic](https://github.com/NCSU-Libraries/jekyll-academic). We are still in the early phases of the project and hope to add more complete documentation and advanced features in the near future.
