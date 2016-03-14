@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Web Archiving QA Automation
+title: QA Automation
 description: Using consumer software to automate the web archiving quality assurance process
 theme: black
 transition: slide
