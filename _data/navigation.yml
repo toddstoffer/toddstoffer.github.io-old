@@ -5,11 +5,11 @@
 - title: About Me
   url: /about/
 
-- title: Resume
-  url: /resume/
-
 - title: Blog
   url: /archive/
 
-# - title: Presentations
-#  url: /presentations/
+- title: Presentations
+  url: /presentations/
+
+- title: Resume
+  url: /resume/

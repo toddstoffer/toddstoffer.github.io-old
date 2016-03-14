@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: QA Automation
-description: Using consumer software to automate the web archiving quality assurance process
+description: "Using consumer software to automate the web archiving quality assurance process."
 theme: black
 transition: slide
 tags: [presentation]
