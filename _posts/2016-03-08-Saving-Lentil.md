@@ -6,7 +6,7 @@ theme: black
 transition: slide
 ---
 
-<section>
+<section data-markdown>
 
 #Saving <span style="color: #a23">Lentil</span>
 
@@ -16,7 +16,7 @@ transition: slide
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Lentil
 
@@ -29,7 +29,7 @@ transition: slide
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Instagram API Changes
 
@@ -39,7 +39,7 @@ transition: slide
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Valid Use Cases
 
@@ -51,7 +51,7 @@ Source: www.instagram.com/developer
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Sandbox
 
@@ -59,7 +59,7 @@ All new clients that are created are <span style="color: #a23">automatically</sp
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Permissions Review
 
@@ -67,7 +67,7 @@ New clients must be submitted for review before <span style="color: #a23">grante
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Submission Requirements
 
@@ -78,7 +78,7 @@ New clients must be submitted for review before <span style="color: #a23">grante
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Be Specific
 
@@ -94,7 +94,7 @@ Wear your lucky socks on submission day
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## More Info
 
@@ -108,7 +108,7 @@ Wear your lucky socks on submission day
 
 </section>
 
-<section>
+<section data-markdown>
 
 # The End
 
