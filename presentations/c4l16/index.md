@@ -11,7 +11,7 @@ transition: slide
 
 ### Tips for a Successful Instagram API Submission
 
-<small>[Todd Stoffer | NCSU Libraries](mailto:tdstoffe@ncsu.edu) / [@toddstoffer](www.twitter.com/toddstoffer) / [toddstoffer.com](www.toddstoffer.com)</small>
+[Todd Stoffer | NCSU Libraries](mailto:tdstoffe@ncsu.edu) / [@toddstoffer](www.twitter.com/toddstoffer) / [toddstoffer.com](www.toddstoffer.com)
 
 </section>
 
@@ -54,7 +54,7 @@ Source: www.instagram.com/developer
 
 ## Sandbox
 
-All new clents that are created are <span style="color: #a23">automatically</span> placed in sandbox mode. Limited to 10 users and 20 most recent images from those users
+All new clients that are created are <span style="color: #a23">automatically</span> placed in sandbox mode. Limited to 10 users and 20 most recent images from those users
 
 </section>
 
@@ -100,10 +100,10 @@ Wear your lucky socks on submission day
 * * *
 
 #### Lentil
-[<span class="fragment grow">github.com/NCSU-libraries/lentil</span>](https://github.com/ncsu-libraries/lentil)
+[github.com/NCSU-libraries/lentil](https://github.com/ncsu-libraries/lentil)
 
 #### Sample API Submission Docs
-[<span class="fragment grow">github.com/toddstoffer/instagram-API-Submission</span>](https://github.com/toddstoffer/Instagram-API-Submission)
+[github.com/toddstoffer/instagram-API-Submission](https://github.com/toddstoffer/Instagram-API-Submission)
 
 </section>
 
