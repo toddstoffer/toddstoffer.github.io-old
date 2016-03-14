@@ -1,11 +1,12 @@
 ---
 layout: slide
-title: Jekyll: Make presentation page with reveal.js
-description: A presentation slide for how to use reveal.js in Jekyll
+title: Web Archiving QA Automation
+description: Using consumer software to automate the web archiving quality assurance process
 theme: black
 transition: slide
+tags: [presentation]
 ---
-<section>
+<section data-markdown>
 
 # Web Archiving <span style="color: #a23">Automation</span>
 
@@ -15,7 +16,7 @@ transition: slide
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Web Archviing QA Automation
 
@@ -28,7 +29,7 @@ transition: slide
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Automation
 
@@ -38,7 +39,7 @@ transition: slide
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Utilizing Consumer Software
 
@@ -48,7 +49,7 @@ transition: slide
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Google Forms
 
@@ -56,7 +57,7 @@ Make it easy for student staff to make qualitative decisions. They don't need to
 
 </section>
 
-<section>
+<section data-markdown>
 
 ## Google App Script
 
@@ -133,7 +134,7 @@ Make it easy for student staff to make qualitative decisions. They don't need to
 
 </section>
 
-<section>
+<section data-markdown>
 
 # The End
 
