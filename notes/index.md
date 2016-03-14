@@ -155,3 +155,21 @@ Keynote - DuckDuckGo
 [DuckDuckHack] (http://duckduckhack.com/) - this is a thing i need to get involved with. Seems to be maybe a simple way to get into a large OSS project (http://duckduckhack.com/)
 
 # Todd You should contribute to this
+
+
+### Lightning Talks -
+
+To Look Into:
+Look into New duke finding aids with ScrollSpy
+IIIF Image api
+
+[twilio] - https://www.twilio.com/
+
+[openID Connect](http://openid.net/connect/)
+
+[Library Workflow Exchange](http://www.libraryworkflowexchange.org/)
+
+
+Location mapping
+
+[Using Estimote Beacons] (http://estimote.com/)
