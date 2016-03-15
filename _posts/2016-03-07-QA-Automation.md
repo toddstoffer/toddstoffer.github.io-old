@@ -1,8 +1,8 @@
 ---
 layout: slide
-title: QA Automation
-description: "Using consumer software to automate the web archiving quality assurance process."
-theme: black
+title: Code4Arc Lightning Talk - QA Automation
+excerpt: "A lightning talk presented at the 2016 Code4Arc pre-conference focused on using consumer software to automate the web archiving quality assurance process."
+theme: sky
 transition: slide
 tags: [presentation]
 category: presentation

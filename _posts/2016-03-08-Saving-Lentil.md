@@ -1,8 +1,8 @@
 ---
 layout: slide
-title: Saving Lentil
-description: "Working within the new Instagram API Requirements"
-theme: black
+title: Code4Lib Lightning Talk - Saving Lentil
+excerpt: "A lightning talk presented at the 2016 Code4Lib conference. Describes how to successfully submit an Instagram API approval packet"
+theme: blood
 transition: slide
 tags: [presentation]
 category: presentation
