@@ -10,7 +10,7 @@ category: blog
 
 # Adding reveal.js to Jekyll Academic to Create, Host and Present Slide Decks
 
-The addition of reveal.js to Jekyll Academic allows you to create dynamic slideshows quickly and easily. They are hosted on your GitHub Pages website and play in a browser, so you don't need to worry about software compatibility. The initial setup is somewhat complex, but once that is complete you will be able to simply copy an existing blog post that is formatted for reveal.js, change the content and push to GitHub.
+The addition of reveal.js to your [Jekyll Academic](https://github.com/NCSU-Libraries/jekyll-academic) website allows you to create dynamic slideshows quickly and easily. They are hosted on your GitHub Pages website and play in a browser, so you don't need to worry about software compatibility. The initial setup is somewhat complex, but once that is complete you will be able to simply copy an existing blog post that is formatted for reveal.js, change the content and push to GitHub.
 
 ### Step 1 - Add the reveal.js code to your repository
 - Download and unzip the reveal.js zip file from [https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js)
@@ -54,6 +54,7 @@ Create a new blog post file and paste the following code into that file:
 - Visit your blog post to see your new reveal.js slide Decks
 
 ### Step 5 - Editing Your slideshows
+
 #### Overview
 As you noticed there should be two slides in your new slide deck. The content for both slides is contained in the one Markdown file. Each slide starts with a `<section data-markdown>` tag and ends with a `</section>` tag. You can add as many slides as you want to a presentation by simply adding new sections to the same Markdown file that you have been editing.
 
@@ -61,4 +62,4 @@ As you noticed there should be two slides in your new slide deck. The content fo
 There are a variety of themes to choose from. [This](http://lab.hakim.se/reveal-js/#/themes) page shows you what the different themes look like. In order to update the theme simply change the theme name you are using in your Markdown file. For example change `Theme: blood` to `Theme: sky`.
 
 #### Transitions
-Similarly to updating the theme of your slideshow, you are also able to update the transitions used when switching between slides. An example of transitions can be found [here](http://lab.hakim.se/reveal-js/#/transitions). In order to update transitions simply replace the current trasition name with the one you wish to use instead. 
+Similarly to updating the theme of your slideshow, you are also able to update the transitions used when switching between slides. An example of transitions can be found [here](http://lab.hakim.se/reveal-js/#/transitions). In order to update transitions simply replace the current trasition name with the one you wish to use instead.
