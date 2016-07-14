@@ -14,7 +14,7 @@ category: presentation
 
 [Todd Stoffer - NCSU Libraries](mailto:tdstoffe@ncsu.edu)
 
-[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [go.ncsu.edu/](https://go.ncsu.edu/)**Need to update**
+[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [http://go.ncsu.edu/atlanta16](http://go.ncsu.edu/atlanta16)
 
 </section>
 
@@ -196,7 +196,7 @@ category: presentation
 
 ## What's Next?
 
-* Shift Focus from Producion Crawls to Test Crawls
+* Shift Focus from Production Crawls to Test Crawls
      - Identify Seed Scoping Issues Earlier
      - Shift more QA to beginning of process
 * Add additional functionality
@@ -219,7 +219,7 @@ category: presentation
 ## Questions?
 [Todd Stoffer - NCSU Libraries](mailto:tdstoffe@ncsu.edu)
 
-[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [go.ncsu.edu/iipc](https://go.ncsu.edu/iipc)
+[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [http://go.ncsu.edu/atlanta16](http://go.ncsu.edu/atlanta16)
 *********
 ### Demo Google Form
 [go.ncsu.edu/qa-demo](https://go.ncsu.edu/qa-demo)
