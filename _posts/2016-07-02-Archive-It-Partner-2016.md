@@ -14,7 +14,7 @@ category: presentation
 
 [Todd Stoffer - NCSU Libraries](mailto:tdstoffe@ncsu.edu)
 
-[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [http://go.ncsu.edu/atlanta16](http://go.ncsu.edu/atlanta16)
+[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [go.ncsu.edu/atlanta16](http://go.ncsu.edu/atlanta16)
 
 </section>
 
@@ -23,7 +23,7 @@ category: presentation
 ## QA Automation Goals
 >Speed Up This Process:
 
->Test Crawl > QA > Adjust Scope > Re-Crawl
+>Test Crawl > Adjust Scope > Production Crawl
 
 </section>
 
@@ -33,7 +33,7 @@ category: presentation
 
 >*   Better Utilize Student Employees
 >*   Document QA results for an asynchronous work environment
->*   Incur No Additional Costs
+>*   Limit additional costs (developer time)
 </section>
 
 <section data-markdown>
@@ -77,7 +77,7 @@ category: presentation
 
 ## Google Forms
 
-### [QA Automation Demo Form](https://docs.google.com/a/ncsu.edu/forms/d/166O9n5jQDeO50WFFJZdwXa4eJPHVUegDBU8X75E1fTw/formResponse)
+### [QA Automation Demo Form](https://docs.google.com/a/ncsu.edu/forms/d/e/1FAIpQLSfvHD8-_36y8B1C0grjay5MJWGs5rvpLqyDfLMCucyXOJWq9Q/viewform)
 
 </section>
 <section data-markdown>
@@ -95,8 +95,6 @@ category: presentation
 * Can trigger 'On Form Submit'
 
 </section>
-
-
 
 <section data-markdown>
 ## Sample Script
@@ -185,23 +183,33 @@ category: presentation
 
 * Hunt Library Impact collection
      * 244 Initial Seeds
-* Averaging 50 Seed per Day QA Rate
+     * Averaged 50 Seed per Day QA Rate
      * Fills in Time Gaps of Current GA
-* Reduced Go-Live Time by Months
+     * Reduced Go-Live Time by Months
 
 </section>
 
+<section data-markdown>
+
+
+## Results Part 2
+
+* NC State Websites Collection
+     * Reformatted to focus on seed scoping
+     * Addresses hosts with large queued document numbers
+     * Able to spread QA work throughout staff
+</section>
 
 <section data-markdown>
 
 ## What's Next?
 
-* Shift Focus from Production Crawls to Test Crawls
-     - Identify Seed Scoping Issues Earlier
-     - Shift more QA to beginning of process
+* Update script management
+     - Move out to standalone scripts
+     - Add version control (GitHub)
 * Add additional functionality
-     - Close the loop from end of QA in Trello back to Google Sheets
-* Put tutorial / sample code into GitHub
+     - Focus on quantitative measures
+* Develop and publish tutorial
 
 </section>
 <section data-markdown>
@@ -219,9 +227,9 @@ category: presentation
 ## Questions?
 [Todd Stoffer - NCSU Libraries](mailto:tdstoffe@ncsu.edu)
 
-[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [http://go.ncsu.edu/atlanta16](http://go.ncsu.edu/atlanta16)
+[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [go.ncsu.edu/atlanta16](http://go.ncsu.edu/atlanta16)
 *********
-### Demo Google Form
+### Demo Google Forms
 [go.ncsu.edu/qa-demo](https://go.ncsu.edu/qa-demo)
 
 </section>
