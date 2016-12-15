@@ -2,11 +2,8 @@
 - title: Home
   url: /
 
-- title: About Me
-  url: /about/
-
-- title: Blog
-  url: /archive/
+# - title: Blog
+#   url: /archive/
 
 - title: Presentations
   url: /presentations/
