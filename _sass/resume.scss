@@ -43,8 +43,8 @@
 
 .resume code {
   font: normal normal;
-  font-size: 100%;
-  color: #aaa;
+  float: right;
+  color: #000;
   padding-right: .5em;
   text-indent: 0px;
 }
@@ -109,4 +109,20 @@
 em {
   font-weight: bold;
   font-style: italic;
+}
+
+.button {
+    background-color: $highlightcolor;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+}
+
+a:hover {
+  color: $highlightcolor;
 }

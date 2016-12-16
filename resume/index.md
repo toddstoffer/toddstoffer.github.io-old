@@ -29,13 +29,10 @@ __Colorado State University__
 
 
 `2016`
-<a href="http://toddstoffer.github.io/presentation/IIPC-2016/#/">Automating the Web Archiving QA Process, IIPC, Reykjavik, Iceland</a>
--
--
+<a href="http://toddstoffer.github.io/presentation/IIPC-2016/#/">Automating the Web Archiving QA Process, IIPC, Reykjavik, Iceland</a> 
 
 `2016`
 <a href="http://toddstoffer.github.io/presentation/presentation/Saving-Lentil/#/">Saving Lentil, Code4Lib Lightning Talk, Philadelphia, PA</a>
-
 
 *****
 
