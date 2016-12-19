@@ -1,12 +1,14 @@
 ---
 layout: resume
+pdf: true
 ---
+
+
 ## Currently
 
 I am currently a Digital Technologies Development Librarian at NCSU Libraries. I work in  the Digital Library Initiatives department. My work in DLI is focused on the hands on development and leadership of digital library projects.
 
 *****
-
 ## Education
 
 `2013 - 2015`
@@ -29,7 +31,7 @@ __Colorado State University__
 
 
 `2016`
-<a href="http://toddstoffer.github.io/presentation/IIPC-2016/#/">Automating the Web Archiving QA Process, IIPC, Reykjavik, Iceland</a> 
+<a href="http://toddstoffer.github.io/presentation/IIPC-2016/#/">Automating the Web Archiving QA Process, IIPC, Reykjavik, Iceland</a>
 
 `2016`
 <a href="http://toddstoffer.github.io/presentation/presentation/Saving-Lentil/#/">Saving Lentil, Code4Lib Lightning Talk, Philadelphia, PA</a>
