@@ -1,6 +1,5 @@
 ---
 layout: resume
-pdf: true
 ---
 
 
