@@ -87,13 +87,12 @@ category: presentation
 <section data-markdown data-notes="^Note:">
 ## Purpose
 * Preserve Historical Record of the University
-* Record Retention
-* Emerging Field of Practice
+* Participate in Emerging Field of Practice
 </section>
 
 
 <section data-markdown data-notes="^Note:">
-## Progress
+## Initiative Overview
 * Tool Selection
 * Environmental Scan
 * Seed Selection
@@ -110,24 +109,31 @@ category: presentation
 
 <section data-markdown data-notes="^Note:">
 ## Environmental Scan
-MAYBE ADD A GRAPHIC WITH LEADING UNIVERSITIES
+![Seed Diagram](/images/initiative/env-scan.png)
+###### ...and many more!
+</section>
+
+<section data-markdown data-notes="^Note:">
+## Lets Start ~~Preserving~~ Crawling!
+#### How does Archive-It save a site?
+![Seed Diagram](/images/initiative/seed.png)
 </section>
 
 <section data-markdown data-notes="^Note:">
 ## Seed Selection Process
-* What is a seed?
+* What seeds exist?
 * What seeds do we want?
-  * Identification
-  * Archival Stuff
-  * Priority Setting
+* Where do we start?
 
 </section>
 
 <section data-markdown data-notes="^Note:">
-## Crawling
-#### How does Archive-It crawl a seed?
-![Seed Diagram](/images/initiative/seed.png)
+## Tiered Approach
+![Seed Diagram](/images/initiative/ncsu-seeds.png)
+
 </section>
+
+
 
 <section data-markdown data-notes="^Note:">
 ### Testing and QA
@@ -145,26 +151,28 @@ MAYBE ADD A GRAPHIC WITH LEADING UNIVERSITIES
 
 
 <section data-markdown data-notes="^Note:">
-## Progress Report
+## Primary Outcomes
 * 4 Active Collections
   * NC State University Websites
   * James B. Hunt Impact Collection
   * Landscape Architecture
   * Architecture and Design
-* ~400 Active Seeds
-* 718GB of Data
+* ~ 400 Active Seeds
+* 718 GB of Data
+* Full Process Documentation
 </section>
 
 
 <section data-markdown data-notes="^Note:">
-## Other Outcomes
+## Secondary Outcomes
+* Active Members in Web Archiving Community
 * Open QA Automation Process
 * Open Documentation
 </section>
 
 
 <section data-markdown data-notes="^Note:">
-## Next Steps
+## What's Next?
 * Expanded Collections
 * New Collections
 * Web Archive Portal
