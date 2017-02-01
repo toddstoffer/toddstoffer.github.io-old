@@ -114,7 +114,7 @@ category: presentation
 </section>
 
 <section data-markdown data-notes="^Note:">
-## Lets Start ~~Preserving~~ Crawling!
+## Lets Start Crawling!
 #### How does Archive-It save a site?
 ![Seed Diagram](/images/initiative/seed.png)
 </section>
