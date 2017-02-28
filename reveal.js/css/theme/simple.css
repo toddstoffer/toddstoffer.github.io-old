@@ -287,9 +287,9 @@ body {
 
 /*********************** Footer **************/
 
-body:after {
+/*body:after {
 content: url(../../../images/logo.png);
 position: fixed;
 bottom: 3.5em;
 left: 3.5em;
- }
+ }*/
