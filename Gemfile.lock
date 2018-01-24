@@ -4,7 +4,6 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
-    digest (0.0.1)
     faraday (0.10.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.14)
@@ -22,11 +21,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
-    jekyll-pdf (0.1.6)
-      digest (~> 0)
-      jekyll (~> 3.1, >= 2.0)
-      pdfkit (~> 0.8)
-      wkhtmltopdf-installer (~> 0.12)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-sitemap (0.12.0)
@@ -58,7 +52,6 @@ GEM
       jekyll (>= 2.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
-    pdfkit (0.8.2)
     public_suffix (2.0.4)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
@@ -71,7 +64,6 @@ GEM
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
     titlecase (0.1.1)
-    wkhtmltopdf-installer (0.12.4.0)
 
 PLATFORMS
   ruby
@@ -79,9 +71,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.0)
   jekyll-gist
-  jekyll-pdf
   jekyll-sitemap
   octopress
 
 BUNDLED WITH
-   1.12.5
+   1.15.3
