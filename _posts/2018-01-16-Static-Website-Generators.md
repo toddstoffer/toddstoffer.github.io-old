@@ -118,3 +118,10 @@ Managing a static site requires knowledge of some additional tools that you may 
 ### Bask in the glory of your new website. <!-- .element: class="fragment fade-in"-->
 </script>
 </section>
+
+<section data-markdown>
+<script type="text/template">
+## Thank You
+#### @toddstoffer | tdstoffe@ncsu.edu
+</script>
+</section>
