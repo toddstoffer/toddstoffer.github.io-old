@@ -1,9 +1,9 @@
 /*!
  * reveal.js
- * http://lab.hakim.se/reveal-js
+ * https://lab.hakim.se/reveal-js
  * MIT licensed
  *
- * Copyright (C) 2016 Hakim El Hattab, http://hakim.se
+ * Copyright (C) 2016 Hakim El Hattab, https://hakim.se
  */
 (function( root, factory ) {
 	if( typeof define === 'function' && define.amd ) {
@@ -770,7 +770,7 @@
 
 		if( data.background ) {
 			// Auto-wrap image urls in url(...)
-			if( /^(http|file|\/\/)/gi.test( data.background ) || /\.(svg|png|jpg|jpeg|gif|bmp)$/gi.test( data.background ) ) {
+			if( /^(https|file|\/\/)/gi.test( data.background ) || /\.(svg|png|jpg|jpeg|gif|bmp)$/gi.test( data.background ) ) {
 				slide.setAttribute( 'data-background-image', data.background );
 			}
 			else {
@@ -1430,7 +1430,7 @@
 		var anchors = toArray( document.querySelectorAll( selector ? selector : 'a' ) );
 
 		anchors.forEach( function( element ) {
-			if( /^(http|www)/gi.test( element.getAttribute( 'href' ) ) ) {
+			if( /^(https|www)/gi.test( element.getAttribute( 'href' ) ) ) {
 				element.addEventListener( 'click', onPreviewLinkClicked, false );
 			}
 		} );
@@ -1445,7 +1445,7 @@
 		var anchors = toArray( document.querySelectorAll( 'a' ) );
 
 		anchors.forEach( function( element ) {
-			if( /^(http|www)/gi.test( element.getAttribute( 'href' ) ) ) {
+			if( /^(https|www)/gi.test( element.getAttribute( 'href' ) ) ) {
 				element.removeEventListener( 'click', onPreviewLinkClicked, false );
 			}
 		} );
@@ -1969,8 +1969,8 @@
 	/**
 	 * Handling the fullscreen functionality via the fullscreen API
 	 *
-	 * @see http://fullscreen.spec.whatwg.org/
-	 * @see https://developer.mozilla.org/en-US/docs/DOM/Using_fullscreen_mode
+	 * @see https://fullscreen.spec.whatwg.org/
+	 * @see httpss://developer.mozilla.org/en-US/docs/DOM/Using_fullscreen_mode
 	 */
 	function enterFullscreen() {
 
@@ -2362,7 +2362,7 @@
 				element.classList.remove( 'present' );
 				element.classList.remove( 'future' );
 
-				// http://www.w3.org/html/wg/drafts/html/master/editing.html#the-hidden-attribute
+				// https://www.w3.org/html/wg/drafts/html/master/editing.html#the-hidden-attribute
 				element.setAttribute( 'hidden', '' );
 				element.setAttribute( 'aria-hidden', 'true' );
 

@@ -71,7 +71,7 @@ Make it easy for student staff to make qualitative decisions. They don't need to
 
     	//Overview information to be included in every ticket
     	var seed = e.values[3];
-    	var wayback = "https://wayback.archive-it.org/5838/*/"+ e.values[3];
+    	var wayback = "httpss://wayback.archive-it.org/5838/*/"+ e.values[3];
     	var crawlId = e.values[5];
     	var crawlDate = e.values[6];
 

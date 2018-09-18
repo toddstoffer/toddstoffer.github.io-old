@@ -14,7 +14,7 @@ category: presentation
 
 [Todd Stoffer - NCSU Libraries](mailto:tdstoffe@ncsu.edu)
 
-[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [go.ncsu.edu/open101](http://go.ncsu.edu/open101)
+[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [go.ncsu.edu/open101](https://go.ncsu.edu/open101)
 
 </section>
 
@@ -23,7 +23,7 @@ category: presentation
 ## What Are They?
 
 </section>
-<section data-background-image="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" data-background-size="50%">
+<section data-background-image="httpss://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" data-background-size="50%">
 </section>
 
 <section data-markdown>
@@ -69,23 +69,23 @@ Managing a static site requires knowledge of some additional tools that you may 
 
 <section data-markdown>
 ## No
-- https://www.ruby-lang.org
-- http://getbootstrap.com/
-- https://analytics.usa.gov/
+- httpss://www.ruby-lang.org
+- https://getbootstrap.com/
+- httpss://analytics.usa.gov/
 </section>
 
 <section data-markdown>
 ## Here are some that we have made:
-- [Red, White & Black](https://scrc.lib.ncsu.edu/m/exhibits/redwhiteblack/)
+- [Red, White & Black](httpss://scrc.lib.ncsu.edu/m/exhibits/redwhiteblack/)
   - full text search (lunr.js)
   - Google Maps (jekyll-google-maps plugin)
-- [Markdown Tutorial](https://ncsu-libraries.github.io/markdown-tutorial/)
+- [Markdown Tutorial](httpss://ncsu-libraries.github.io/markdown-tutorial/)
 </section>
 
 <section>
 <h2>Jekyll Academic!</h2>
 <img src="/images/opensource101/jekyll-academic.png" width="700" />
-<h4><a href = "https://go.ncsu.edu/ja-docs">go.ncsu.edu/ja-docs</a></h4>
+<h4><a href = "httpss://go.ncsu.edu/ja-docs">go.ncsu.edu/ja-docs</a></h4>
 </section>
 
 
@@ -93,7 +93,7 @@ Managing a static site requires knowledge of some additional tools that you may 
 <script type="text/template">
 ## Workflow
 ### Starts like this:<!-- .element: class="fragment fade-in"-->
-![Charlie](https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif)<!-- .element: class="fragment fade-in"-->
+![Charlie](httpss://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif)<!-- .element: class="fragment fade-in"-->
 </script>
 
 </section>
@@ -102,7 +102,7 @@ Managing a static site requires knowledge of some additional tools that you may 
 <script type="text/template">
 ## Workflow
 ### Eventually feels like this:<!-- .element: class="fragment fade-in"-->
-![Charlie](https://media.giphy.com/media/M7sUn3FIGZDig/giphy.gif)<!-- .element: class="fragment fade-in"-->
+![Charlie](httpss://media.giphy.com/media/M7sUn3FIGZDig/giphy.gif)<!-- .element: class="fragment fade-in"-->
 </script>
 
 </section>

@@ -1,4 +1,4 @@
-var http        = require('http');
+var https        = require('https');
 var express		= require('express');
 var fs			= require('fs');
 var io			= require('socket.io');
@@ -6,7 +6,7 @@ var crypto		= require('crypto');
 
 var app       	= express();
 var staticDir 	= express.static;
-var server    	= http.createServer(app);
+var server    	= https.createServer(app);
 
 io = io(server);
 

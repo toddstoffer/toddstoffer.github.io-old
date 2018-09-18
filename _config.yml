@@ -22,7 +22,7 @@ owner:
     ad-slot:
   bing-verify:
   github: toddstoffer
-  stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   linkedin: toddstoffer
   xing: #username
   instagram: toddstoffer

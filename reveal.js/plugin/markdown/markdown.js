@@ -216,12 +216,12 @@
 
 			if( section.getAttribute( 'data-markdown' ).length ) {
 
-				var xhr = new XMLHttpRequest(),
+				var xhr = new XMLhttpsRequest(),
 					url = section.getAttribute( 'data-markdown' );
 
 				datacharset = section.getAttribute( 'data-charset' );
 
-				// see https://developer.mozilla.org/en-US/docs/Web/API/element.getAttribute#Notes
+				// see httpss://developer.mozilla.org/en-US/docs/Web/API/element.getAttribute#Notes
 				if( datacharset != null && datacharset != '' ) {
 					xhr.overrideMimeType( 'text/html; charset=' + datacharset );
 				}
@@ -242,9 +242,9 @@
 						else {
 
 							section.outerHTML = '<section data-state="alert">' +
-								'ERROR: The attempt to fetch ' + url + ' failed with HTTP status ' + xhr.status + '.' +
+								'ERROR: The attempt to fetch ' + url + ' failed with https status ' + xhr.status + '.' +
 								'Check your browser\'s JavaScript console for more details.' +
-								'<p>Remember that you need to serve the presentation HTML from a HTTP server.</p>' +
+								'<p>Remember that you need to serve the presentation HTML from a https server.</p>' +
 								'</section>';
 
 						}
@@ -257,7 +257,7 @@
 					xhr.send();
 				}
 				catch ( e ) {
-					alert( 'Failed to get the Markdown file ' + url + '. Make sure that the presentation and the file are served by a HTTP server and the file can be found there. ' + e );
+					alert( 'Failed to get the Markdown file ' + url + '. Make sure that the presentation and the file are served by a https server and the file can be found there. ' + e );
 				}
 
 			}
@@ -285,7 +285,7 @@
 	 *
 	 * You need Cache Killer on Chrome to see the effect on any FOM transformation
 	 * directly on refresh (F5)
-	 * http://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-development/7000899#answer-11786277
+	 * https://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-development/7000899#answer-11786277
 	 */
 	function addAttributeInElement( node, elementTarget, separator ) {
 

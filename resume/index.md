@@ -26,14 +26,14 @@ __Colorado State University__
 ## Presentations
 
 `2016`
-<a href="http://toddstoffer.github.io/presentation/Archive-It-Partner-2016/#/">Automating the QA Workflow, Archive-It Partners Meeting, Atlanta, GA</a>
+<a href="https://toddstoffer.github.io/presentation/Archive-It-Partner-2016/#/">Automating the QA Workflow, Archive-It Partners Meeting, Atlanta, GA</a>
 
 
 `2016`
-<a href="http://toddstoffer.github.io/presentation/IIPC-2016/#/">Automating the Web Archiving QA Process, IIPC, Reykjavik, Iceland</a>
+<a href="https://toddstoffer.github.io/presentation/IIPC-2016/#/">Automating the Web Archiving QA Process, IIPC, Reykjavik, Iceland</a>
 
 `2016`
-<a href="http://toddstoffer.github.io/presentation/presentation/Saving-Lentil/#/">Saving Lentil, Code4Lib Lightning Talk, Philadelphia, PA</a>
+<a href="https://toddstoffer.github.io/presentation/presentation/Saving-Lentil/#/">Saving Lentil, Code4Lib Lightning Talk, Philadelphia, PA</a>
 
 *****
 

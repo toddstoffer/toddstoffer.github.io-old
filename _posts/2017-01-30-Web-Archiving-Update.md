@@ -18,7 +18,7 @@ category: presentation
 
 <section>
 <h2>Saving Websites for...</h2>
-<iframe src="//giphy.com/embed/l3q2OaMcG9xLbERAA" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/l3q2OaMcG9xLbERAA"></a></p>
+<iframe src="//giphy.com/embed/l3q2OaMcG9xLbERAA" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l3q2OaMcG9xLbERAA"></a></p>
 </section>
 
 <section data-markdown data-notes="^Note:">
@@ -28,7 +28,7 @@ category: presentation
 <section>
 <h4>whitehouse.gov circa 1995</h4>
 
-<a title="By WhiteHouse.gov (http://clinton1.nara.gov) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AWhitehouse.gov_during_Clinton_administration.gif"><img width="256" alt="Whitehouse.gov during Clinton administration" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Whitehouse.gov_during_Clinton_administration.gif"/></a>
+<a title="By WhiteHouse.gov (https://clinton1.nara.gov) [Public domain], via Wikimedia Commons" href="httpss://commons.wikimedia.org/wiki/File%3AWhitehouse.gov_during_Clinton_administration.gif"><img width="256" alt="Whitehouse.gov during Clinton administration" src="httpss://upload.wikimedia.org/wikipedia/commons/f/fc/Whitehouse.gov_during_Clinton_administration.gif"/></a>
 </section>
 
 <section data-markdown data-notes="^Note:">
@@ -37,7 +37,7 @@ category: presentation
 
 <section>
 <h4>whitehouse.gov circa 2009</h4>
-<a title="By Executive Office of the President; screenshot by Rosserluke (http://www.whitehouse.gov/) [Public domain or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AObamaweb.jpg"><img width="512" alt="Obamaweb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Obamaweb.jpg/512px-Obamaweb.jpg"/></a>
+<a title="By Executive Office of the President; screenshot by Rosserluke (https://www.whitehouse.gov/) [Public domain or CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="httpss://commons.wikimedia.org/wiki/File%3AObamaweb.jpg"><img width="512" alt="Obamaweb" src="httpss://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Obamaweb.jpg/512px-Obamaweb.jpg"/></a>
 </section>
 
 <section>
@@ -68,7 +68,7 @@ category: presentation
 
 
 <section>
-<iframe src="//giphy.com/embed/LwAjTGdSWNRYc" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/shorts-december-LwAjTGdSWNRYc"></a></p>
+<iframe src="//giphy.com/embed/LwAjTGdSWNRYc" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shorts-december-LwAjTGdSWNRYc"></a></p>
 </section>
 
 <section data-markdown data-notes="^Note:">
@@ -180,5 +180,5 @@ category: presentation
 
 <section data-markdown data-notes="^Note:">
 ## Explore Our Collections
-https://archive-it.org/home/ncsu-libraries
+httpss://archive-it.org/home/ncsu-libraries
 </section>

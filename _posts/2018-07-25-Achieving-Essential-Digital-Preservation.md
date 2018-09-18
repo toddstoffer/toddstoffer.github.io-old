@@ -14,7 +14,7 @@ category: presentation
 
 [Todd Stoffer - NCSU Libraries](mailto:tdstoffe@ncsu.edu)
 
-[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [go.ncsu.edu/c4lse](http://go.ncsu.edu/c4lse)
+[@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [go.ncsu.edu/c4lse](https://go.ncsu.edu/c4lse)
 
 Note: Hello, I'm Todd and I am from NCSU. Today I am here to talk about digital preservation and the development of a new digital preservation application at NCSU Libraries. Here is some contact info and a link to the slides with speaker notes.
 </section>
@@ -31,7 +31,7 @@ Note: Lets start by adding some context to the term digital. All libraries have 
 
 Note: To formally address our digital preservation needs NCSU Libraries established a working group (the Digitization and Digital Curation Working Group (DDCWG)). This group worked to identify our current digital preservation strategy and compare that to current best practices (many of which are outlined by the National Digital Stewardship Alliance (NDSA) “Levels of Digital Preservation" document) [1]. This resulted in a report outlining steps we could take to improve our current strategy and bring it more in line with industry best practices. By breaking this work down into levels of preservation it allowed us to begin thinking of technical solutions that could help us incrementally improve - level up. This is an important step in helping to avoid the preservation rabbit hole.
 
-[1]http://www.digitalpreservation.gov:8081/ndsa/activities/levels.html
+[1]https://www.digitalpreservation.gov:8081/ndsa/activities/levels.html
 </section>
 
 <section data-markdown data-separator-notes="^Note:">

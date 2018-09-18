@@ -3,9 +3,9 @@
 /*!
 * FitVids 1.1
 *
-* Copyright 2013, Chris Coyier - http://css-tricks.com + Dave Rupert - http://daverupert.com
-* Credit to Thierry Koblentz - http://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/
-* Released under the WTFPL license - http://sam.zoy.org/wtfpl/
+* Copyright 2013, Chris Coyier - https://css-tricks.com + Dave Rupert - https://daverupert.com
+* Credit to Thierry Koblentz - https://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/
+* Released under the WTFPL license - https://sam.zoy.org/wtfpl/
 *
 */
 
@@ -20,7 +20,7 @@
     };
 
     if(!document.getElementById('fit-vids-style')) {
-      // appendStyles: https://github.com/toddmotto/fluidvids/blob/master/dist/fluidvids.js
+      // appendStyles: httpss://github.com/toddmotto/fluidvids/blob/master/dist/fluidvids.js
       var head = document.head || document.getElementsByTagName('head')[0];
       var css = '.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}';
       var div = document.createElement('div');
