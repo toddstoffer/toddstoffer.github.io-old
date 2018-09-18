@@ -77,7 +77,7 @@ category: presentation
 
 ## Google Forms
 
-### [QA Automation Demo Form](httpss://docs.google.com/a/ncsu.edu/forms/d/e/1FAIpQLSfvHD8-_36y8B1C0grjay5MJWGs5rvpLqyDfLMCucyXOJWq9Q/viewform)
+### [QA Automation Demo Form](https://docs.google.com/a/ncsu.edu/forms/d/e/1FAIpQLSfvHD8-_36y8B1C0grjay5MJWGs5rvpLqyDfLMCucyXOJWq9Q/viewform)
 
 </section>
 <section data-markdown>
@@ -108,7 +108,7 @@ category: presentation
 
      //Overview information to be included in every ticket
      var seed = e.values[2];
-     var wayback = "httpss://wayback.archive-it.org/7087/*/"+ e.values[2];
+     var wayback = "https://wayback.archive-it.org/7087/*/"+ e.values[2];
 
 
      //Display error information, to be included in tickets where display error == yes
@@ -230,6 +230,6 @@ category: presentation
 [@toddstoffer](www.twitter.com/toddstoffer) | [tdstoffe@ncsu.edu](mailto:tdstoffe@ncsu.edu) | [go.ncsu.edu/atlanta16](https://go.ncsu.edu/atlanta16)
 *********
 ### Demo Google Forms
-[go.ncsu.edu/qa-demo](httpss://go.ncsu.edu/qa-demo)
+[go.ncsu.edu/qa-demo](https://go.ncsu.edu/qa-demo)
 
 </section>

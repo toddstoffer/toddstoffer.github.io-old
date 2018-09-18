@@ -452,7 +452,7 @@ MagnificPopup.prototype = {
 	updateSize: function(winHeight) {
 
 		if(mfp.isIOS) {
-			// fixes iOS nav bars httpss://github.com/dimsemenov/Magnific-Popup/issues/2
+			// fixes iOS nav bars https://github.com/dimsemenov/Magnific-Popup/issues/2
 			var zoomLevel = document.documentElement.clientWidth / window.innerWidth;
 			var height = window.innerHeight * zoomLevel;
 			mfp.wrap.css('height', height);
@@ -1953,7 +1953,7 @@ $.magnificPopup.registerModule(RETINA_NS, {
 /*>>fastclick*/
 /**
  * FastClick event implementation. (removes 300ms delay on touch devices)
- * Based on httpss://developers.google.com/mobile/articles/fast_buttons
+ * Based on https://developers.google.com/mobile/articles/fast_buttons
  *
  * You may use it outside the Magnific Popup by calling just:
  *
@@ -1966,7 +1966,7 @@ $.magnificPopup.registerModule(RETINA_NS, {
  *
  *
  * Note that it's a very basic and simple implementation, it blocks ghost click on the same element where it was bound.
- * If you need something more advanced, use plugin by FT Labs httpss://github.com/ftlabs/fastclick
+ * If you need something more advanced, use plugin by FT Labs https://github.com/ftlabs/fastclick
  *
  */
 

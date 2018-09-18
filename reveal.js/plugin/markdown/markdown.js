@@ -221,7 +221,7 @@
 
 				datacharset = section.getAttribute( 'data-charset' );
 
-				// see httpss://developer.mozilla.org/en-US/docs/Web/API/element.getAttribute#Notes
+				// see https://developer.mozilla.org/en-US/docs/Web/API/element.getAttribute#Notes
 				if( datacharset != null && datacharset != '' ) {
 					xhr.overrideMimeType( 'text/html; charset=' + datacharset );
 				}

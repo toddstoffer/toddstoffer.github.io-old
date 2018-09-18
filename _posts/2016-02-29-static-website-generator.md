@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll. The layout is a slightly modified version of the [Minimal Mistakes](httpss://mmistakes.github.io/minimal-mistakes/) theme by Michael Rose. The idea was to create a template specifically for the academic community to use to create a simple, well designed website that can be hosted just about anywhere.
+This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll. The layout is a slightly modified version of the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme by Michael Rose. The idea was to create a template specifically for the academic community to use to create a simple, well designed website that can be hosted just about anywhere.
 
 ## What is a static website generator?
 A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
@@ -20,4 +20,4 @@ A static website, simply put, is easier to manage than just about any other opti
 This template has been optimized for ease of use. In the next set of instructions you will see that there are less than five files that you need to edit in order to customize the look of the website.
 
 ## Where can I get a copy?
-This project is being actively maintained at [github.com/NCSU-Libraries/jekyll-academic](httpss://github.com/NCSU-Libraries/jekyll-academic). We are still in the early phases of the project and hope to add more complete documentation and advanced features in the near future.
+This project is being actively maintained at [github.com/NCSU-Libraries/jekyll-academic](https://github.com/NCSU-Libraries/jekyll-academic). We are still in the early phases of the project and hope to add more complete documentation and advanced features in the near future.

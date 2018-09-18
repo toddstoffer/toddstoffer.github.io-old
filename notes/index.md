@@ -20,19 +20,19 @@ comments: false
 - [Powrr](https://digitalpowrr.niu.edu/tool-grid/)
 - [Coptr](https://coptr.digipres.org/Main_Page)
 - [FITS](https://projects.iq.harvard.edu/fits/home)
-- [CoSA](httpss://www.statearchivists.org/resource-center/resource-library/)
+- [CoSA](https://www.statearchivists.org/resource-center/resource-library/)
 
 # Providing Access to Websites
 Biggest issue w/ web archiving is now abundance, too much Websites
 ## Geocities projects1995 10k users 1997 1Mil
 
 ## WARCBase - I need to learn this look, team up with hadoop, apache hbase, spark
-httpss://github.com/lintool/warcbase
+https://github.com/lintool/warcbase
 
 # Digital Preservation
 Something is better than nothing - stop waiting for perfect, the content will dissappear before we are able to preserve it.
 
-httpss://tpverso.wordpress.com/
+https://tpverso.wordpress.com/
 
 
 # Usability Testing
@@ -54,16 +54,16 @@ Finding aids need to keep up with web development
 Use existing CSS template to make it look better, be mobile-friendly, mobile-fun
 
 # Spreadsheets
-[cvskit](httpss://csvkit.readthedocs.org/en/0.9.1/)
+[cvskit](https://csvkit.readthedocs.org/en/0.9.1/)
 
 
 # Identity Hub - Roll your own
-[wikidata](httpss://www.wikidata.org/wiki/Wikidata:Main_Page)
+[wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
 # Trust
 -[dat-data](https://dat-data.com/) - git for data, helps maintain provenance. Using git type commits/merges/branches allows full tracking.
 -Client/server vs peer/peer - which is better?
--[Code4Philly](httpss://codeforphilly.org/projects/dat_tables)
+-[Code4Philly](https://codeforphilly.org/projects/dat_tables)
 
 ****************
 ****************
@@ -71,14 +71,14 @@ Use existing CSS template to make it look better, be mobile-friendly, mobile-fun
 # Linked Open Dime Novels
 Need to combine the data to help merge content from multiple sources
 ## To Look into:
-[Geeby-Deeby] (httpss://github.com/demiankatz/Geeby-Deeby) [Murpoint - Might be helpful in harvesting RDF from a single Domain ](httpss://github.com/FalveyLibraryTechnology/Murpoint)
+[Geeby-Deeby] (https://github.com/demiankatz/Geeby-Deeby) [Murpoint - Might be helpful in harvesting RDF from a single Domain ](https://github.com/FalveyLibraryTechnology/Murpoint)
 
 # Creative Search
 A semantic search situation, something interesting to look into
 ## To Look into:
 [dbpedia.org](https://dbpedia.org)
 [brianforks](https://brainforks:8080/)
-[Code Repo?](httpss://github.com/minervax/)
+[Code Repo?](https://github.com/minervax/)
 
 
 # Migrating to RDF
@@ -105,7 +105,7 @@ Use apache + passenger / node.js
 
 
 # Defensive Design - Dre - awesome thinking - look at slides to get articles to read later
-[Dre's Slides](httpss://docs.google.com/presentation/d/180dMBG26xMYB9gfIotoUyCBQfO3XfmHiJGQjvn58GwY/edit?pref=2&pli=1#slide=id.ged47dc080_0_0)
+[Dre's Slides](https://docs.google.com/presentation/d/180dMBG26xMYB9gfIotoUyCBQfO3XfmHiJGQjvn58GwY/edit?pref=2&pli=1#slide=id.ged47dc080_0_0)
 
 
 # Creative Disintegration
@@ -114,7 +114,7 @@ Use apache + passenger / node.js
 # NPR RAD
 also allows for git to run tests which saves time
 [Yeoman](https://yeoman.io/)
-[Jenkins](httpss://jenkins-ci.org/)
+[Jenkins](https://jenkins-ci.org/)
 
 # Desktop Apps /
 Electron is Chromium plus node.js
@@ -130,7 +130,7 @@ make a on demand visualization of SC holdings
 # *Really need to look into this tool*
 # contact @tolloid
 
-httpss://docs.google.com/presentation/d/1rdlnKOJtUjIbM-2wMOiEmfgnY3y9of2btOGaHR7NFC0/edit#slide=id.g11bfc0e2ab_0_96
+https://docs.google.com/presentation/d/1rdlnKOJtUjIbM-2wMOiEmfgnY3y9of2btOGaHR7NFC0/edit#slide=id.g11bfc0e2ab_0_96
 
 Use [Mediacat](github.com/utmediacat)
 Can help in defining scpe of crawl
@@ -163,7 +163,7 @@ To Look Into:
 Look into New duke finding aids with ScrollSpy
 IIIF Image api
 
-[twilio] - httpss://www.twilio.com/
+[twilio] - https://www.twilio.com/
 
 [openID Connect](https://openid.net/connect/)
 

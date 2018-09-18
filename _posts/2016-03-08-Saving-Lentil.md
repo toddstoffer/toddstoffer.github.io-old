@@ -103,10 +103,10 @@ Wear your lucky socks on submission day
 * * *
 
 #### Lentil
-[github.com/NCSU-libraries/lentil](httpss://github.com/ncsu-libraries/lentil)
+[github.com/NCSU-libraries/lentil](https://github.com/ncsu-libraries/lentil)
 
 #### Sample API Submission Docs
-[github.com/toddstoffer/instagram-API-Submission](httpss://github.com/toddstoffer/Instagram-API-Submission)
+[github.com/toddstoffer/instagram-API-Submission](https://github.com/toddstoffer/Instagram-API-Submission)
 
 </section>
 

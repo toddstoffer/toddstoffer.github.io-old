@@ -194,7 +194,7 @@ $mfp-use-visuallyhidden:              false !default; // Hide content from brows
 
 // Helper class that hides stuff
 @if $mfp-use-visuallyhidden {
-  // From HTML5 Boilerplate httpss://github.com/h5bp/html5-boilerplate/blob/v4.2.0/doc/css.md#visuallyhidden
+  // From HTML5 Boilerplate https://github.com/h5bp/html5-boilerplate/blob/v4.2.0/doc/css.md#visuallyhidden
   .mfp-hide {
     border: 0 !important;
     clip: rect(0 0 0 0) !important;

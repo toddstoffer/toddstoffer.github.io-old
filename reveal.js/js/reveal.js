@@ -1970,7 +1970,7 @@
 	 * Handling the fullscreen functionality via the fullscreen API
 	 *
 	 * @see https://fullscreen.spec.whatwg.org/
-	 * @see httpss://developer.mozilla.org/en-US/docs/DOM/Using_fullscreen_mode
+	 * @see https://developer.mozilla.org/en-US/docs/DOM/Using_fullscreen_mode
 	 */
 	function enterFullscreen() {
 

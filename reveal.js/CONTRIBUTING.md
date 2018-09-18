@@ -20,4 +20,4 @@ When reporting a bug make sure to include information about which browser and op
 
 
 ### Plugins
-Please do not submit plugins as pull requests. They should be maintained in their own separate repository. More information here: httpss://github.com/hakimel/reveal.js/wiki/Plugin-Guidelines
+Please do not submit plugins as pull requests. They should be maintained in their own separate repository. More information here: https://github.com/hakimel/reveal.js/wiki/Plugin-Guidelines

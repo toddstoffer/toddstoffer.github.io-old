@@ -5,7 +5,7 @@
  *
  * Copyright 2013 jQuery Foundation and other contributors
  * Released under the MIT license.
- * httpss://jquery.org/license/
+ * https://jquery.org/license/
  */
 
 (function( window ) {
@@ -1361,7 +1361,7 @@ function validTest( test ) {
 
 // so far supports only Firefox, Chrome and Opera (buggy), Safari (for real exceptions)
 // Later Safari and IE10 are supposed to support error.stack as well
-// See also httpss://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Error/Stack
+// See also https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Error/Stack
 function extractStacktrace( e, offset ) {
 	offset = offset === undefined ? 3 : offset;
 

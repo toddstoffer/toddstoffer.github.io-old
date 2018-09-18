@@ -10,14 +10,14 @@ category: blog
 
 # Adding reveal.js to Jekyll Academic to Create, Host and Present Slide Decks
 
-The addition of reveal.js to your [Jekyll Academic](httpss://github.com/NCSU-Libraries/jekyll-academic) website allows you to create dynamic slideshows quickly and easily. They are hosted on your GitHub Pages website and play in a browser, so you don't need to worry about software compatibility. The initial setup is somewhat complex, but once that is complete you will be able to simply copy an existing blog post that is formatted for reveal.js, change the content and push to GitHub.
+The addition of reveal.js to your [Jekyll Academic](https://github.com/NCSU-Libraries/jekyll-academic) website allows you to create dynamic slideshows quickly and easily. They are hosted on your GitHub Pages website and play in a browser, so you don't need to worry about software compatibility. The initial setup is somewhat complex, but once that is complete you will be able to simply copy an existing blog post that is formatted for reveal.js, change the content and push to GitHub.
 
 ### Step 1 - Add the reveal.js code to your repository
-- Download and unzip the reveal.js zip file from [httpss://github.com/hakimel/reveal.js](httpss://github.com/hakimel/reveal.js)
+- Download and unzip the reveal.js zip file from [https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js)
 - Move the unzipped reveal.js directory into the root directory of your website. This shoudl be in the same directory that contains \_Posts and \_config.yml
 
 ### Step 2 - Create a new blog post layout for slide decks
-- Copy the content from the slide.htm that can be found [here](httpss://github.com/toddstoffer/toddstoffer.github.io/blob/master/_layouts/slide.html) into a blank text file.
+- Copy the content from the slide.htm that can be found [here](https://github.com/toddstoffer/toddstoffer.github.io/blob/master/_layouts/slide.html) into a blank text file.
 - Save that file as slide.html into your \_layouts folder.
 
 ### Step 3 - Create a test slide deck

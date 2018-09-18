@@ -1,16 +1,16 @@
-# reveal.js [![Build Status](httpss://travis-ci.org/hakimel/reveal.js.svg?branch=master)](httpss://travis-ci.org/hakimel/reveal.js)
+# reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](https://lab.hakim.se/reveal-js/).
 
-reveal.js comes with a broad range of features including [nested slides](httpss://github.com/hakimel/reveal.js#markup), [Markdown contents](httpss://github.com/hakimel/reveal.js#markdown), [PDF export](httpss://github.com/hakimel/reveal.js#pdf-export), [speaker notes](httpss://github.com/hakimel/reveal.js#speaker-notes) and a [JavaScript API](httpss://github.com/hakimel/reveal.js#api). It's best viewed in a modern browser but [fallbacks](httpss://github.com/hakimel/reveal.js/wiki/Browser-Support) are available to make sure your presentation can still be viewed elsewhere.
+reveal.js comes with a broad range of features including [nested slides](https://github.com/hakimel/reveal.js#markup), [Markdown contents](https://github.com/hakimel/reveal.js#markdown), [PDF export](https://github.com/hakimel/reveal.js#pdf-export), [speaker notes](https://github.com/hakimel/reveal.js#speaker-notes) and a [JavaScript API](https://github.com/hakimel/reveal.js#api). It's best viewed in a modern browser but [fallbacks](https://github.com/hakimel/reveal.js/wiki/Browser-Support) are available to make sure your presentation can still be viewed elsewhere.
 
 
 #### More reading:
 - [Installation](#installation): Step-by-step instructions for getting reveal.js running on your computer.
-- [Changelog](httpss://github.com/hakimel/reveal.js/releases): Up-to-date version history.
-- [Examples](httpss://github.com/hakimel/reveal.js/wiki/Example-Presentations): Presentations created with reveal.js, add your own!
-- [Browser Support](httpss://github.com/hakimel/reveal.js/wiki/Browser-Support): Explanation of browser support and fallbacks.
-- [Plugins](httpss://github.com/hakimel/reveal.js/wiki/Plugins,-Tools-and-Hardware): A list of plugins that can be used to extend reveal.js.
+- [Changelog](https://github.com/hakimel/reveal.js/releases): Up-to-date version history.
+- [Examples](https://github.com/hakimel/reveal.js/wiki/Example-Presentations): Presentations created with reveal.js, add your own!
+- [Browser Support](https://github.com/hakimel/reveal.js/wiki/Browser-Support): Explanation of browser support and fallbacks.
+- [Plugins](https://github.com/hakimel/reveal.js/wiki/Plugins,-Tools-and-Hardware): A list of plugins that can be used to extend reveal.js.
 
 ## Online Editor
 
@@ -61,7 +61,7 @@ The presentation markup hierarchy needs to be `.reveal > .slides > section` wher
 
 It's possible to write your slides using Markdown. To enable Markdown, add the ```data-markdown``` attribute to your ```<section>``` elements and wrap the contents in a ```<script type="text/template">``` like the example below.
 
-This is based on [data-markdown](httpss://gist.github.com/1343518) from [Paul Irish](httpss://github.com/paulirish) modified to use [marked](httpss://github.com/chjj/marked) to support [GitHub Flavored Markdown](httpss://help.github.com/articles/github-flavored-markdown). Sensitive to indentation (avoid mixing tabs and spaces) and line breaks (avoid consecutive breaks).
+This is based on [data-markdown](https://gist.github.com/1343518) from [Paul Irish](https://github.com/paulirish) modified to use [marked](https://github.com/chjj/marked) to support [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown). Sensitive to indentation (avoid mixing tabs and spaces) and line breaks (avoid consecutive breaks).
 
 ```html
 <section data-markdown>
@@ -196,7 +196,7 @@ Reveal.initialize({
 	viewDistance: 3,
 
 	// Parallax background image
-	parallaxBackgroundImage: '', // e.g. "'httpss://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
+	parallaxBackgroundImage: '', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
 
 	// Parallax background size
 	parallaxBackgroundSize: '', // CSS syntax, e.g. "2100px 900px"
@@ -257,7 +257,7 @@ Reveal.js doesn't _rely_ on any third party scripts to work but a few optional l
 ```javascript
 Reveal.initialize({
 	dependencies: [
-		// Cross-browser shim that fully implements classList - httpss://github.com/eligrey/classList.js/
+		// Cross-browser shim that fully implements classList - https://github.com/eligrey/classList.js/
 		{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
 
 		// Interpret Markdown in <section> elements
@@ -414,7 +414,7 @@ Reveal.isAutoSliding();
 
 A 'slidechanged' event is fired each time the slide is changed (regardless of state). The event object holds the index values of the current slide as well as a reference to the previous and current slide HTML nodes.
 
-Some libraries, like MathJax (see [#226](httpss://github.com/hakimel/reveal.js/issues/226#issuecomment-10261609)), get confused by the transforms and display states of slides. Often times, this can be fixed by calling their update or render function from this callback.
+Some libraries, like MathJax (see [#226](https://github.com/hakimel/reveal.js/issues/226#issuecomment-10261609)), get confused by the transforms and display states of slides. Often times, this can be fixed by calling their update or render function from this callback.
 
 ```javascript
 Reveal.addEventListener( 'slidechanged', function( event ) {
@@ -465,10 +465,10 @@ Slides are contained within a limited portion of the screen by default to allow 
 <section data-background="https://example.com/image.png" data-background-size="100px" data-background-repeat="repeat">
 	<h2>This background image will be sized to 100px and repeated.</h2>
 </section>
-<section data-background-video="httpss://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,httpss://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-video-loop>
+<section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-video-loop>
 	<h2>Video. Multiple sources can be defined using a comma separated list. Video will loop when the data-background-video-loop attribute is provided.</h2>
 </section>
-<section data-background-iframe="httpss://slides.com">
+<section data-background-iframe="https://slides.com">
 	<h2>Embeds a web page as a background. Note that the page won't be interactive.</h2>
 </section>
 ```
@@ -484,7 +484,7 @@ If you want to use a parallax scrolling background, set the first two config pro
 Reveal.initialize({
 
 	// Parallax background image
-	parallaxBackgroundImage: '', // e.g. "httpss://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg"
+	parallaxBackgroundImage: '', // e.g. "https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg"
 
 	// Parallax background size
 	parallaxBackgroundSize: '', // CSS syntax, e.g. "2100px 900px" - currently only pixels are supported (don't use % or auto)
@@ -498,7 +498,7 @@ Reveal.initialize({
 });
 ```
 
-Make sure that the background size is much bigger than screen size to allow for some scrolling. [View example](https://lab.hakim.se/reveal-js/?parallaxBackgroundImage=httpss%3A%2F%2Fs3.amazonaws.com%2Fhakim-static%2Freveal-js%2Freveal-parallax-1.jpg&parallaxBackgroundSize=2100px%20900px).
+Make sure that the background size is much bigger than screen size to allow for some scrolling. [View example](https://lab.hakim.se/reveal-js/?parallaxBackgroundImage=https%3A%2F%2Fs3.amazonaws.com%2Fhakim-static%2Freveal-js%2Freveal-parallax-1.jpg&parallaxBackgroundSize=2100px%20900px).
 
 
 
@@ -612,7 +612,7 @@ Reveal.addEventListener( 'fragmenthidden', function( event ) {
 
 ### Code syntax highlighting
 
-By default, Reveal is configured with [highlight.js](httpss://highlightjs.org/) for code syntax highlighting. Below is an example with clojure code that will be syntax highlighted. When the `data-trim` attribute is present, surrounding whitespace is automatically removed.  HTML will be escaped by default. To avoid this, for example if you are using `<mark>` to call out a line of code, add the `data-noescape` attribute to the `<code>` element.
+By default, Reveal is configured with [highlight.js](https://highlightjs.org/) for code syntax highlighting. Below is an example with clojure code that will be syntax highlighted. When the `data-trim` attribute is present, surrounding whitespace is automatically removed.  HTML will be escaped by default. To avoid this, for example if you are using `<mark>` to call out a line of code, add the `data-noescape` attribute to the `<code>` element.
 
 ```html
 <section>
@@ -669,7 +669,7 @@ Add `data-autoplay` to your media element if you want it to automatically start 
 <video data-autoplay src="https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
 ```
 
-Additionally the framework automatically pushes two [post messages](httpss://developer.mozilla.org/en-US/docs/Web/API/Window.postMessage) to all iframes, ```slide:start``` when the slide containing the iframe is made visible and ```slide:stop``` when it is hidden.
+Additionally the framework automatically pushes two [post messages](https://developer.mozilla.org/en-US/docs/Web/API/Window.postMessage) to all iframes, ```slide:start``` when the slide containing the iframe is made visible and ```slide:stop``` when it is hidden.
 
 
 ### Stretching elements
@@ -722,10 +722,10 @@ Reveal.initialize({
 
 ## PDF Export
 
-Presentations can be exported to PDF via a special print stylesheet. This feature requires that you use [Google Chrome](https://google.com/chrome) or [Chromium](httpss://www.chromium.org/Home).
+Presentations can be exported to PDF via a special print stylesheet. This feature requires that you use [Google Chrome](https://google.com/chrome) or [Chromium](https://www.chromium.org/Home).
 Here's an example of an exported presentation that's been uploaded to SlideShare: https://www.slideshare.net/hakimel/revealjs-300.
 
-1. Open your presentation with `print-pdf` included anywhere in the query string. This triggers the default index HTML to load the PDF print stylesheet ([css/print/pdf.css](httpss://github.com/hakimel/reveal.js/blob/master/css/print/pdf.css)). You can test this with [lab.hakim.se/reveal-js?print-pdf](https://lab.hakim.se/reveal-js?print-pdf).
+1. Open your presentation with `print-pdf` included anywhere in the query string. This triggers the default index HTML to load the PDF print stylesheet ([css/print/pdf.css](https://github.com/hakimel/reveal.js/blob/master/css/print/pdf.css)). You can test this with [lab.hakim.se/reveal-js?print-pdf](https://lab.hakim.se/reveal-js?print-pdf).
 2. Open the in-browser print dialog (CMD+P).
 3. Change the **Destination** setting to **Save as PDF**.
 4. Change the **Layout** to **Landscape**.
@@ -733,9 +733,9 @@ Here's an example of an exported presentation that's been uploaded to SlideShare
 6. Enable the **Background graphics** option.
 7. Click **Save**.
 
-![Chrome Print Settings](httpss://s3.amazonaws.com/hakim-static/reveal-js/pdf-print-settings-2.png)
+![Chrome Print Settings](https://s3.amazonaws.com/hakim-static/reveal-js/pdf-print-settings-2.png)
 
-Alternatively you can use the [decktape](httpss://github.com/astefanutti/decktape) project.
+Alternatively you can use the [decktape](https://github.com/astefanutti/decktape) project.
 
 ## Theming
 
@@ -757,7 +757,7 @@ Each theme is available as a separate stylesheet. To change theme you will need 
 <link rel="stylesheet" href="css/theme/black.css" id="theme">
 ```
 
-If you want to add a theme of your own see the instructions here: [/css/theme/README.md](httpss://github.com/hakimel/reveal.js/blob/master/css/theme/README.md).
+If you want to add a theme of your own see the instructions here: [/css/theme/README.md](https://github.com/hakimel/reveal.js/blob/master/css/theme/README.md).
 
 
 ## Speaker Notes
@@ -798,7 +798,7 @@ This will only display in the notes window.
 
 Notes are only visible to the speaker inside of the speaker view. If you wish to share your notes with others you can initialize reveal.js with the `showNotes` config value set to `true`. Notes will appear along the bottom of the presentations.
 
-When `showNotes` is enabled notes are also included when you [export to PDF](httpss://github.com/hakimel/reveal.js#pdf-export).
+When `showNotes` is enabled notes are also included when you [export to PDF](https://github.com/hakimel/reveal.js#pdf-export).
 
 ## Server Side Speaker Notes
 
@@ -970,7 +970,7 @@ Reveal.initialize({
 	// other options ...
 
 	math: {
-		mathjax: 'httpss://cdn.mathjax.org/mathjax/latest/MathJax.js',
+		mathjax: 'https://cdn.mathjax.org/mathjax/latest/MathJax.js',
 		config: 'TeX-AMS_HTML-full'  // See https://docs.mathjax.org/en/latest/config-files.html
 	},
 	
@@ -981,7 +981,7 @@ Reveal.initialize({
 });
 ```
 
-Read MathJax's documentation if you need [httpsS delivery](https://docs.mathjax.org/en/latest/start.html#secure-access-to-the-cdn) or serving of [specific versions](https://docs.mathjax.org/en/latest/configuration.html#loading-mathjax-from-the-cdn) for stability.
+Read MathJax's documentation if you need [https delivery](https://docs.mathjax.org/en/latest/start.html#secure-access-to-the-cdn) or serving of [specific versions](https://docs.mathjax.org/en/latest/configuration.html#loading-mathjax-from-the-cdn) for stability.
 
 
 ## Installation
@@ -992,7 +992,7 @@ The **basic setup** is for authoring presentations only. The **full setup** give
 
 The core of reveal.js is very easy to install. You'll simply need to download a copy of this repository and open the index.html file directly in your browser.
 
-1. Download the latest version of reveal.js from <httpss://github.com/hakimel/reveal.js/releases>
+1. Download the latest version of reveal.js from <https://github.com/hakimel/reveal.js/releases>
 
 2. Unzip and replace the example contents in index.html with your own
 
@@ -1009,7 +1009,7 @@ Some reveal.js features, like external Markdown and speaker notes, require that 
 
 4. Clone the reveal.js repository
    ```sh
-   $ git clone httpss://github.com/hakimel/reveal.js.git
+   $ git clone https://github.com/hakimel/reveal.js.git
    ```
 
 5. Navigate to the reveal.js folder
