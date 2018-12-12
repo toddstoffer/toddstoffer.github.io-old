@@ -1,11 +1,17 @@
 ---
-layout: post
 title: Adding Reveal.js to Jekyll Academic
-excerpt: "Adding reveal.js to Jekyll Academic allows you to host your own dynamic slide show right from your GitHub Pages website."
-modified: 2016-05-25 12:46:33
-tags: [jekyll, tutorial, blog]
+date: 2016-05-25 00:00:00 Z
+categories:
+- blog
+tags:
+- jekyll
+- tutorial
+- blog
+layout: post
+excerpt: Adding reveal.js to Jekyll Academic allows you to host your own dynamic slide
+  show right from your GitHub Pages website.
+modified: 2016-05-25 12:46:33 Z
 comments: false
-category: blog
 ---
 
 # Adding reveal.js to Jekyll Academic to Create, Host and Present Slide Decks

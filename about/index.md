@@ -1,7 +1,10 @@
 ---
-layout: page
 title: About Me
-tags: [about, about me, me, ]
+layout: page
+tags:
+- about
+- about me
+- me
 modified: 3/4/2016, 4:32:51
 comments: true
 ---

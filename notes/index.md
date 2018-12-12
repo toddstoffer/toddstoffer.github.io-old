@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Conference Notes
+layout: page
 tags: []
 modified: 3/9/2016, 4:49:45 PM
 comments: false

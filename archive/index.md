@@ -1,7 +1,8 @@
 ---
-layout: post-index
 title: All Posts
-excerpt: "A List of Posts"
+layout: post-index
+excerpt: A List of Posts
 image:
   feature: sample-image-1.jpg
 ---
+

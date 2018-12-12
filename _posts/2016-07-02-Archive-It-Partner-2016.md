@@ -1,12 +1,17 @@
 ---
-layout: slide
 title: Archive-It Partner Meeting 2016 - Automating the QA Work Flow
-excerpt: "A presentation at the 2016 Archive-It Partner Meeting, focusing on automating the QA workflow to minimize costs by utilizing student employees"
+date: 2016-07-02 00:00:00 Z
+categories:
+- presentation
+tags:
+- presentation
+layout: slide
+excerpt: A presentation at the 2016 Archive-It Partner Meeting, focusing on automating
+  the QA workflow to minimize costs by utilizing student employees
 theme: simple
 transition: convex
-tags: [presentation]
-category: presentation
 ---
+
 <section data-markdown>
 
 ### Automating the Web Archiving QA Process

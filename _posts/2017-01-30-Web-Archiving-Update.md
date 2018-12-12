@@ -1,12 +1,16 @@
 ---
-layout: slide
 title: Web Archiving Update
-excerpt: "An update on the NCSU Libraries Web Archiving Project"
+date: 2017-01-30 00:00:00 Z
+categories:
+- presentation
+tags:
+- presentation
+layout: slide
+excerpt: An update on the NCSU Libraries Web Archiving Project
 theme: league
 transition: convex
-tags: [presentation]
-category: presentation
 ---
+
 <section data-markdown data-notes="^Note:">
 ## Web Archiving Initiative
 #### February 7, 2017 | NCSU Libraries

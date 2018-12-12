@@ -2,7 +2,6 @@
 layout: resume
 ---
 
-
 ## Currently
 
 I am a Digital Technologies Development Librarian at NCSU Libraries. I provide technical leadership and hands on programming for a portfolio of digital library projects in the Digital Library Initiatives department.

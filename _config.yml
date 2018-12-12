@@ -1,60 +1,79 @@
-# Site wide configuration
-
-title:            Todd Stoffer
-locale:           en_US
-logo:
+---
+title: Todd Stoffer
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+locale: en_US
+logo: 
 url: https://toddstoffer.github.io
-
-# Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Todd Stoffer
   avatar: bio-photo.jpg
-  bio: "Hi I'm Todd, I'm a Librarian"
+  bio: Hi I'm Todd, I'm a Librarian
   email: tdstoffe@ncsu.edu
-  disqus-shortname:
+  disqus-shortname: 
   twitter: toddstoffer
-  facebook: #username
+  facebook: 
   google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+    plus: 
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
   github: toddstoffer
-  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
+  stackoverflow: 
   linkedin: toddstoffer
-  xing: #username
+  xing: 
   instagram: toddstoffer
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-
-#DO NOT EDIT BEYOND THIS POINT
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
+  lastfm: 
+  tumblr: 
+  pinterest: 
+  foursquare: 
+  steam: 
+  dribbble: 
+  youtube: 
+  soundcloud: 
+  weibo: 
+  flickr: 
+  codepen: 
+permalink: "/:categories/:title/"
+markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-
-
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+include:
+- ".htaccess"
+exclude:
+- lib
+- config.rb
+- Capfile
+- config
+- log
+- Rakefile
+- Rakefile.rb
+- tmp
+- less
+- "*.sublime-project"
+- "*.sublime-workspace"
+- test
+- spec
+- Gruntfile.js
+- package.json
+- node_modules
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md

@@ -1,12 +1,17 @@
 ---
-layout: slide
 title: Achieving Essential Digital Preservation
-excerpt: "A lightning talk at the 2018 Code4Lib Southeast conference focused on the creation and deployment of a digital preservation platform at NCSU Libraries"
+date: 2018-07-25 00:00:00 Z
+categories:
+- presentation
+tags:
+- presentation
+layout: slide
+excerpt: A lightning talk at the 2018 Code4Lib Southeast conference focused on the
+  creation and deployment of a digital preservation platform at NCSU Libraries
 theme: simple
 transition: convex
-tags: [presentation]
-category: presentation
 ---
+
 <section data-markdown data-separator-notes="^Note:">
 
 ## Achieving Essential Digital Preservation
